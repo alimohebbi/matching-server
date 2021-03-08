@@ -1,0 +1,11 @@
+venv
+.idea
+venv_bert
+.ipynb_checkpoints
+__pycache__
+sim_scores
+/*.csv
+analysis_results/plots-p-new/
+analysis_results/plots
+embedding/app_to_cluster.csv
+cluster_results

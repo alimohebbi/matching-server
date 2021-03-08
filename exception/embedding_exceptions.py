@@ -1,0 +1,2 @@
+class ChangeOfLevel(Exception):
+    pass

@@ -1,0 +1,79 @@
+#model_dir: "/home/amohebbi/models/"
+model_dir: "/Users/usiusi/OneDrive - USI/Research/WordEmbeddingModels/"
+src_event_dir: "events/src_events/"
+target_event_dir: "events/target_events/"
+index_path: "events/index_map.csv"
+save_score_dir: "sim_scores/"
+save_map_dir: "events/total_map.csv"
+save_rank_results_path : "results_rank.csv"
+save_p_results_path : "results_p.csv"
+eval_repeat: 1
+cache_size: 10
+active_techniques:
+  - wm
+#  - w2v
+#  - nnlm
+#  - use
+#  - bert
+#  - glove
+#  - fast
+#  - jaccard
+#  - edit_distance
+#  - random
+train_set:
+  - android
+  - blogs
+  - standard
+  - empty
+  - googleplay
+  - topics
+  - category
+  - hierarchy_topics_edit
+  - hierarchy_topics_jaccard
+  - hierarchy_category_edit
+  - hierarchy_category_jaccard
+  - hierarchy_googleplay_edit
+  - hierarchy_googleplay_jaccard
+  - hierarchy_standard_edit
+  - hierarchy_standard_jaccard
+
+algorithm:
+  - craftdroid
+  - custom
+  - atm_0
+#  - adaptdroid_0
+#  - random
+descriptors:
+ # - union
+ # - intersection
+ # - craftdroid
+ # - atm
+  - adaptdroid
+model_path:
+  w2v_android: "w2v/w2v-manuals.model"
+  w2v_googleplay: "w2v/w2v-googleplay.model"
+  w2v_standard: "w2v/GoogleNews-vectors-negative300.bin"
+  w2v_blogs: "w2v/w2v-blogs.model"
+  fast_android: "fast/fast-manuals.model"
+  fast_googleplay: "fast/fast-googleplay.model"
+  fast_blogs: "fast/fast-blogs.model"
+  fast_standard: "fast/cc.en.300.bin"
+  glove_android: "glove/vectors_user_manuals_glove_in_w2v_format.txt"
+  glove_blogs: "glove/vectors_blogs_glove_in_w2v_format.txt"
+  glove_standard: "glove/vectors_6B_glove_w2v_format.txt"
+  glove_googleplay: "glove/vectors_googleplay_glove_in_w2v_format.txt"
+  nnlm_standard: "nnlm/nnlm-en-dim128_2"
+  use_standard: "use/universal-sentence-encoder_4"
+  bert_standard: ""
+  random: ""
+  topics: "topics/"
+  category: "category/"
+train_data_path:
+  google_play_db: "/home/amohebbi/AppClustering/input/total-v2.db"
+  google_play_processed: "/home/amohebbi/AppClustering/output/preprocessed.csv"
+  google_play_glove_input: "/home/amohebbi/AppClustering/output/google_play.txt"
+  google_play_glove_trained: "/Users/usiusi/OneDrive - USI/Research/WordEmbeddingModels/glove/vectors_googleplay_glove.txt"
+clusters:
+  app_to_cluster: "/Users/usiusi/Documents/Repositories/word-embedding/embedding/app_to_cluster.csv"
+  app_info: "/Users/usiusi/Documents/Repositories/word-embedding/embedding/app_info.csv"
+  topic_model: "/Users/usiusi/Documents/Repositories/AppClustering/model_selector_data/"
