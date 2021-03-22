@@ -138,20 +138,6 @@ def add_src_target_string(descriptors):
     return src_descriptors, target_descriptors
 
 
-def get_atm_minus_craft_map():
-    atm_descriptors = ApproachDescriptors.atm
-    craft_descriptors = ApproachDescriptors.craftdroid
-    minus_descriptors = [i for i in atm_descriptors if i not in craft_descriptors]
-    return column_selector(minus_descriptors)
-
-
-def get_craft_minus_atm_map():
-    atm_descriptors = ApproachDescriptors.atm
-    craft_descriptors = ApproachDescriptors.craftdroid
-    minus_descriptors = [i for i in craft_descriptors if i not in atm_descriptors]
-    return column_selector(minus_descriptors)
-
-
 class DescriptorTypes(enum.Enum):
     adaptdroid = 0
     atm = 1

@@ -1,10 +1,12 @@
 import ast
 from pprint import pprint
 import random
+import json
 
 import pandas as pd
 
 from server.add_neighbors import add_neighbors
+from server.reshape_data import reformat_df, create_source_target_map
 
 
 def rank_descriptors(descriptors):
@@ -29,11 +31,7 @@ def delete_non_related_keys(candidates):
             v.pop(i)
 
 
-
-
 if __name__ == '__main__':
     sample = open('input_sample.txt').read()
-    list_events = ast.literal_eval(sample)
-    df = pd.DataFrame(list_events).T
-    add_neighbors(df, df)
-    pprint(df[['text', 'neighbor']])
+    list_events = json.loads(sample)
+    create_source_target_map(list_events)

@@ -4,7 +4,7 @@ import pandas as pd
 
 
 def add_neighbors(events: pd.DataFrame, labels: pd.DataFrame):
-    events['neighbor'] = ''
+    events['neighbors'] = ''
     for k, i in events.iterrows():
         text = ''
         min_distance = 100000
@@ -13,7 +13,7 @@ def add_neighbors(events: pd.DataFrame, labels: pd.DataFrame):
             if neighbor and min_distance > distance:
                 text = get_text(j)
                 min_distance = distance
-            events['neighbor'][int(k)] = text
+            events['neighbors'][int(k)] = text
 
 
 def relative_position(event: pd.Series, label: pd.Series):
