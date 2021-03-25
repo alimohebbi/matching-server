@@ -14,7 +14,7 @@ class ApproachDescriptors:
     atm = ['text', 'id', 'content_desc', 'hint', 'neighbor', 'file_name']
     craftdroid = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity']
     adaptdroid = ['text', 'id', 'content_desc', 'file_name', 'neighbors', 'fillable_neighbor']
-    union = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity', 'atm_neighbor',
+    union = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity', 'neighbor',
              'file_name']
     intersection = ['text', 'id', 'content_desc', 'hint']
     descriptors_dict = {'default': default_columns, 'atm': atm, 'craftdroid': craftdroid, 'adaptdroid': adaptdroid,
