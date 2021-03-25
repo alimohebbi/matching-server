@@ -1,15 +1,38 @@
-import ast
-from pprint import pprint
-import random
 import json
+import random
+from pprint import pprint
 
-import pandas as pd
+from config import Config
+from evaluators.evaluator_builder import EvaluatorBuilder
 
-from server.add_neighbors import add_neighbors
-from server.reshape_data import reformat_df, create_source_target_map
+config = Config()
+embedding = config.active_techniques[0]
+train_set = config.train_sets[0]
+algorithm = config.algorithm[0]
+descriptor = config.descriptors[0]
+semantic_config = {"algorithm": algorithm, "descriptors": descriptor, "training_set": train_set,
+                   'word_embedding': embedding}
+
+def forbidden_config(semantic_config):
+    if semantic_config['word_embedding'] in ['jaccard', 'edit_distance', 'random']:
+        return semantic_config['training_set'] != 'empty'
+    if semantic_config['word_embedding'] in ['use', 'nnlm', 'bert']:
+        return semantic_config['training_set'] != 'standard'
+    if semantic_config['word_embedding'] not in ['jaccard', 'edit_distance', 'random']:
+        return semantic_config['training_set'] == 'empty'
 
 
-def rank_descriptors(descriptors):
+def score_descriptors(events_list):
+    if forbidden_config(semantic_config):
+        raise Exception("Config is forbidden")
+    builder = EvaluatorBuilder()
+    builder.set_semantic_config(semantic_config)
+    builder.set_events_list(events_list)
+    evaluator = builder.build()
+    return evaluator.potential_matches
+
+
+def score_descriptors2(descriptors):
     candidates = descriptors["candidates"]
     result_keys = list(candidates.keys())
     pprint(descriptors["labels"])
@@ -32,6 +55,8 @@ def delete_non_related_keys(candidates):
 
 
 if __name__ == '__main__':
-    sample = open('input_sample.txt').read()
+    sample = open('syntetic_input.txt').read()
     list_events = json.loads(sample)
-    create_source_target_map(list_events)
+    score_descriptors(list_events)
+
+

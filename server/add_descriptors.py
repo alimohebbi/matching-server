@@ -13,7 +13,7 @@ def add_neighbors(events: pd.DataFrame, labels: pd.DataFrame):
             if neighbor and min_distance > distance:
                 text = get_text(j)
                 min_distance = distance
-            events['neighbors'][int(k)] = text
+        events['neighbors'][int(k)] = text
 
 
 def relative_position(event: pd.Series, label: pd.Series):
@@ -58,3 +58,16 @@ def get_text(series):
         return series['text']
     else:
         return series['content-desc']
+
+
+def find_type(i):
+    cls = i['class']
+    if cls.endswith('EditText'):
+        return 'fillable'
+    return 'clickable'
+
+
+def add_types(events: pd.DataFrame,):
+    events['type'] = ''
+    for k, i in events.iterrows():
+        events['type'][int(k)] = find_type(i)

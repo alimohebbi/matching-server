@@ -38,17 +38,17 @@ train_set:
   - hierarchy_standard_jaccard
 
 algorithm:
-  - craftdroid
+#  - craftdroid
   - custom
-  - atm_0
+#  - atm_0
 #  - adaptdroid_0
 #  - random
 descriptors:
  # - union
  # - intersection
  # - craftdroid
- # - atm
-  - adaptdroid
+  - atm
+#  - adaptdroid
 model_path:
   w2v_android: "w2v/w2v-manuals.model"
   w2v_googleplay: "w2v/w2v-googleplay.model"

@@ -1,7 +1,5 @@
 from pprint import pprint
-
 import pandas as pd
-
 from descriptor_processes.load_data import ApproachDescriptors, concat_rows_horizontally
 from server.add_neighbors import add_neighbors
 
@@ -31,4 +29,4 @@ def create_source_target_map(events_list):
     df_target = reformat_df(df_target, 'target_')
     df_source = reformat_df(df_source, 'src_')
     source_target_df = concat_rows_horizontally(df_source, df_target)
-    pprint(source_target_df)
+

@@ -19,26 +19,25 @@ class EvaluatorBuilder:
     def build(self) -> AbstractEvaluator:
         if not self.all_set():
             raise Exception('All four elements of configuration should be set')
-        save_path = self.create_save_path()
-        evaluator = self.find_evaluator(save_path)
+        evaluator = self.find_evaluator(self.events_list)
         evaluator.set_models(self._semantic_config['word_embedding'], self._semantic_config['training_set'])
         evaluator.process_descriptors()
         return evaluator
 
-    def find_evaluator(self, save_path):
+    def find_evaluator(self, events_list):
         algorithm = self._semantic_config['algorithm']
         if algorithm.startswith('adaptdroid'):
-            evaluator = AdaptdroidEvaluator(save_path, self._semantic_config['descriptors'])
+            evaluator = AdaptdroidEvaluator(events_list, self._semantic_config['descriptors'])
             evaluator.set_threshold(extract_threshold(algorithm))
         elif algorithm == 'craftdroid':
-            evaluator = CraftdroidEvaluator(save_path, self._semantic_config['descriptors'])
+            evaluator = CraftdroidEvaluator(events_list, self._semantic_config['descriptors'])
         elif algorithm.startswith('atm'):
-            evaluator = ATMEvaluator(save_path, self._semantic_config['descriptors'])
+            evaluator = ATMEvaluator(events_list, self._semantic_config['descriptors'])
             evaluator.set_threshold(extract_threshold(algorithm))
         elif algorithm == 'custom':
-            evaluator = CustomEvaluator(save_path, self._semantic_config['descriptors'])
+            evaluator = CustomEvaluator(events_list, self._semantic_config['descriptors'])
         elif algorithm == 'random':
-            evaluator = RandomEvaluator(save_path, self._semantic_config['descriptors'])
+            evaluator = RandomEvaluator(events_list, self._semantic_config['descriptors'])
         else:
             raise Exception('Algorithm ' + self._semantic_config['algorithm'] + ' do not exist')
         return evaluator
@@ -66,15 +65,8 @@ class EvaluatorBuilder:
             return False
         return True
 
-    def create_save_path(self):
-        s_config = self._semantic_config
-        path = ''
-        for i in s_config.keys():
-            if i == 'algorithm':
-                path += s_config[i].split('_')[0] + '_'
-            else:
-                path += s_config[i] + '_'
-        return path[:-1] + '.csv'
-
     def set_semantic_config(self, semantic_config):
         self._semantic_config = semantic_config
+
+    def set_events_list(self, events_list):
+        self.events_list = events_list

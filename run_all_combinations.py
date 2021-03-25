@@ -87,14 +87,14 @@ def run():
 
 
 if __name__ == "__main__":
-    builder = EvaluatorBuilder()
-    columns = ["word_embedding", "training_set", "algorithm", "description"]
-    df = pd.DataFrame(columns=columns)
-    existing_configs = get_existing_config_list()
-    for embedding in config.active_techniques:
-        for train_set in config.train_sets:
-            for algorithm in config.algorithm:
-                for descriptor in config.descriptors:
-                    semantic_config = {"algorithm": algorithm, "descriptors": descriptor, "training_set": train_set,
+    embedding = config.active_techniques[0]
+    train_set = config.train_sets[0]
+    algorithm = config.algorithm[0]
+    descriptor = config.descriptors[0]
+    semantic_config = {"algorithm": algorithm, "descriptors": descriptor, "training_set": train_set,
                                        'word_embedding': embedding}
-                    run()
+    if forbidden_config(semantic_config):
+        pass
+    builder = EvaluatorBuilder()
+    builder.set_semantic_config(semantic_config)
+    evaluator = builder.build()

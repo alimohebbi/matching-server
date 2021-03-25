@@ -5,7 +5,7 @@ from flask import Response
 from flask import Flask
 import json
 
-from server.rank_descriptors import rank_descriptors
+from server.rank_descriptors import score_descriptors
 
 app = Flask(__name__)
 
@@ -14,7 +14,7 @@ app = Flask(__name__)
 def handle_ranking():
     if request.method == 'POST':
         req_json = request.get_json()
-        results = rank_descriptors(req_json)
+        results = score_descriptors(req_json)
         json_results = json.dumps(results)
         resp = Response(json_results, status=200, mimetype='application/json')
         return resp
