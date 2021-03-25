@@ -29,13 +29,13 @@ def score_descriptors(events_list):
     builder.set_semantic_config(semantic_config)
     builder.set_events_list(events_list)
     evaluator = builder.build()
-    return evaluator.potential_matches
+    return evaluator.potential_matches['score'].to_json()
 
 
 def score_descriptors2(descriptors):
     candidates = descriptors["candidates"]
     result_keys = list(candidates.keys())
-    pprint(descriptors["labels"])
+    pprint(descriptors["target_labels"])
     random.shuffle(result_keys)
     result = {}
     for i in result_keys:
@@ -57,6 +57,7 @@ def delete_non_related_keys(candidates):
 if __name__ == '__main__':
     sample = open('syntetic_input.txt').read()
     list_events = json.loads(sample)
-    score_descriptors(list_events)
+    results = score_descriptors(list_events)
+    pprint(results)
 
 

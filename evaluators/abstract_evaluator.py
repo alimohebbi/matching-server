@@ -67,7 +67,7 @@ class AbstractEvaluator(ABC):
     def add_sim_to_df(self, data):
         if self.technique is None and self.train_set not in clustering_train_set:
             raise Exception("A Model should have been set")
-        data[self.active_technique] = data.apply(lambda row: self.run_algorithm(row), axis=1)
+        data['score'] = data.apply(lambda row: self.run_algorithm(row), axis=1)
 
     def create_sim(self, data):
         self.add_sim_to_df(data)

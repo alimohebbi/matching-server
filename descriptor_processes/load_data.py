@@ -11,7 +11,7 @@ config = Config()
 
 class ApproachDescriptors:
     default_columns = ['src_class', 'target_class', 'src_type', 'target_type']
-    atm = ['text', 'id', 'content_desc', 'hint', 'atm_neighbor', 'file_name']
+    atm = ['text', 'id', 'content_desc', 'hint', 'neighbor', 'file_name']
     craftdroid = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity']
     adaptdroid = ['text', 'id', 'content_desc', 'file_name', 'neighbors', 'fillable_neighbor']
     union = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity', 'atm_neighbor',

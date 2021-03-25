@@ -56,8 +56,8 @@ class ATMEvaluator(AbstractEvaluator):
         return ''
 
     def get_label(self, event_side, row):
-        if event_side + '_atm_neighbor' in row and row[event_side + '_atm_neighbor']:
-            return row[event_side + '_atm_neighbor']
+        if event_side + 'atm_neighbor' in row and row[event_side + 'atm_neighbor']:
+            return row[event_side + 'atm_neighbor']
         elif DescriptorTypes[self.descriptors_type] == DescriptorTypes.adaptdroid:
             if row[event_side + '_neighbors'] or row[event_side + '_fillable_neighbor']:
                 return row[event_side + '_neighbors'] + ' ' + row[event_side + '_fillable_neighbor']
