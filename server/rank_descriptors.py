@@ -13,6 +13,7 @@ descriptor = config.descriptors[0]
 semantic_config = {"algorithm": algorithm, "descriptors": descriptor, "training_set": train_set,
                    'word_embedding': embedding}
 
+
 def forbidden_config(semantic_config):
     if semantic_config['word_embedding'] in ['jaccard', 'edit_distance', 'random']:
         return semantic_config['training_set'] != 'empty'
@@ -35,7 +36,7 @@ def score_descriptors(events_list):
 def score_descriptors2(descriptors):
     candidates = descriptors["candidates"]
     result_keys = list(candidates.keys())
-    pprint(descriptors["target_labels"])
+    pprint(descriptors["targetLabels"])
     random.shuffle(result_keys)
     result = {}
     for i in result_keys:
@@ -55,9 +56,8 @@ def delete_non_related_keys(candidates):
 
 
 if __name__ == '__main__':
-    sample = open('syntetic_input.txt').read()
+    sample = open('input_sample.txt').read()
+    # sample = open('syntetic_input.txt').read()
     list_events = json.loads(sample)
     results = score_descriptors(list_events)
     pprint(results)
-
-

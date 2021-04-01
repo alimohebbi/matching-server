@@ -23,12 +23,15 @@ class ApproachDescriptors:
 
 
 def concat_rows_horizontally(src_row, target_rows):
+    target_rows['index_m'] = target_rows.index
     result = []
     for index, row in target_rows.iterrows():
         concated = pd.concat([src_row.reset_index(), row.to_frame().T.reset_index()], axis=1)
         concated.drop(['index'], axis=1, inplace=True)
         result.append(concated)
-    return pd.concat(result, axis=0, ignore_index=True)
+    merged_df = pd.concat(result, axis=0, ignore_index=True)
+    merged_df.set_index('index_m', inplace=True)
+    return merged_df
 
 
 def clean(result):
@@ -40,10 +43,10 @@ def clean(result):
 
 
 def get_mapping(events_list):
-    df_target = pd.DataFrame(events_list['candidates']).T
-    df_source_labels = pd.DataFrame(events_list['target_labels']).T
-    df_target_labels = pd.DataFrame(events_list['source_labels']).T
-    df_source = pd.DataFrame([events_list['source']])
+    df_target = pd.DataFrame.from_dict(events_list['candidates']).T
+    df_source_labels = pd.DataFrame(events_list['sourceLabels']).T
+    df_target_labels = pd.DataFrame(events_list['targetLabels']).T
+    df_source = pd.DataFrame([events_list['sourceEvent']])
     add_neighbors(df_target, df_target_labels)
     add_neighbors(df_source, df_source_labels)
     add_types(df_target)
@@ -55,23 +58,42 @@ def get_mapping(events_list):
     return final_map.fillna('')
 
 
-def clean_id(reource_id):
-    parts = reource_id.split(":id/")
-    return parts[1] if len(parts) > 1 else ''
+def clean_id(resource_id):
+    parts = resource_id.split(":id/")
+    return parts[1] if len(parts) > 1 else resource_id
+
+
+def add_non_existing_columns(df):
+    # required_columns = ['file_name', 'hint', 'content_desc', 'parent_text', 'sibling_text', 'neighbor']
+    required_columns = ApproachDescriptors.union + ['class']
+    for i in required_columns:
+        if i not in df.columns:
+            df[i] = ''
+    return df
 
 
 def reformat_df(df, columns_prefix):
-    df = df.rename(columns={"content-desc": "content_desc", "resource-id": "id"})
+    df = df.rename(columns={"content-desc": "content_desc", "resource-id": "id", "src": "file_name"})
+    df = add_non_existing_columns(df)
+    df = select_necessary_columns(df)
+    add_source_or_target_columns(columns_prefix, df)
+    df[columns_prefix + 'id'] = df[columns_prefix + 'id'].apply(lambda s: clean_id(s))
+    return df
+
+
+def select_necessary_columns(df):
     default = ['class', 'type']
     selected_columns = [i for i in df.columns if
                         i in ApproachDescriptors.all or i in default]
     df = df[selected_columns]
+    return df
+
+
+def add_source_or_target_columns(columns_prefix, df):
     temp_col = []
     for i in df.columns:
         temp_col.append(columns_prefix + i)
     df.columns = temp_col
-    df[columns_prefix + 'id'] = df[columns_prefix + 'id'].apply(lambda s: clean_id(s))
-    return df
 
 
 def column_selector(events_list, descriptors_names):

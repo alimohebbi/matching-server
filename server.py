@@ -14,9 +14,9 @@ app = Flask(__name__)
 def handle_ranking():
     if request.method == 'POST':
         req_json = request.get_json()
+        # pprint(req_json)
         results = score_descriptors(req_json)
-        json_results = json.dumps(results)
-        resp = Response(json_results, status=200, mimetype='application/json')
+        resp = Response(results, status=200, mimetype='application/json')
         return resp
     else:
         return "The request is not valid."

@@ -9,10 +9,13 @@ def add_neighbors(events: pd.DataFrame, labels: pd.DataFrame):
         text = ''
         min_distance = 100000
         for m, j in labels.iterrows():
-            neighbor, distance = relative_position(i, j)
-            if neighbor and min_distance > distance:
-                text = get_text(j)
-                min_distance = distance
+            try:
+                neighbor, distance = relative_position(i, j)
+                if neighbor and min_distance > distance:
+                    text = get_text(j)
+                    min_distance = distance
+            except:
+                print('')
         events['neighbor'][int(k)] = text
 
 

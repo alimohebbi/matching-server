@@ -21,10 +21,10 @@ active_techniques:
 #  - edit_distance
 #  - random
 train_set:
-  - android
-  - blogs
-  - standard
-  - empty
+#  - android
+#  - blogs
+#  - standard
+#  - empty
   - googleplay
   - topics
   - category
