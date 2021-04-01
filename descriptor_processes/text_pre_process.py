@@ -89,11 +89,11 @@ def space_cleaner(input_str):
 
 def pre_process(data, train):
     processed_data = data.fillna('')
+    processed_data = processed_data.applymap(lambda s: remove_punctuation(s))
     if not train:
         processed_data = processed_data.applymap(lambda s: camel_case_split(s))
     processed_data = processed_data.applymap(lambda s: s.lower())
     processed_data = processed_data.applymap(lambda s: re.sub(r'\d+', '', s))
-    processed_data = processed_data.applymap(lambda s: remove_punctuation(s))
     processed_data = processed_data.applymap(lambda s: s.strip())
     processed_data = processed_data.applymap(lambda s: space_cleaner(s))
     processed_data = processed_data.applymap(lambda s: remove_stop_words(s))
@@ -106,11 +106,11 @@ def pre_process(data, train):
 
 if __name__ == "__main__":
     download_nltk_packages()
-    d = {'col1': ['ssHiBuddy hi', 'input_note	45	Note (Optional) EZ',
+    d = {'col1': ['You don\'t have any shopping list', 'input_note	45	Note (Optional) EZ',
                   ' services saved required thinking allows developed',
                   'EZ Tip Calculator is a ssHiBuddy simple tip calculator that allows you to specify the percent you'
                   ' wish to tip'
                   ' and the bill amount. This tip calculator is designed to calculate the tip quickly.']}
     df = pd.DataFrame(data=d)
-    data = pre_process(df, True)
+    data = pre_process(df, False)
     print(data)

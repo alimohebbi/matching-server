@@ -1,3 +1,4 @@
+from descriptor_processes.text_pre_process import remove_redundant_words
 from evaluators.abstract_evaluator import AbstractEvaluator
 from descriptor_processes.load_data import DescriptorTypes, add_src_target_string, ApproachDescriptors
 
@@ -19,8 +20,10 @@ class CustomEvaluator(AbstractEvaluator):
         src_columns, target_columns = add_src_target_string(descriptors_fields)
         src_descriptors = set(row[src_columns])
         src_event = ' '.join(src_descriptors)
+        src_event = remove_redundant_words(src_event)
         target_descriptors = set(row[target_columns])
         target_event = ' '.join(target_descriptors)
+        target_event = remove_redundant_words(target_event)
         return CompatibleDescriptors(src_event, target_event)
 
     def assign_score(self, descriptors: CompatibleDescriptors):

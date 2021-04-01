@@ -44,9 +44,9 @@ algorithm:
 #  - adaptdroid_0
 #  - random
 descriptors:
- # - union
- # - intersection
- # - craftdroid
+#  - union
+#  - intersection
+#  - craftdroid
   - atm
 #  - adaptdroid
 model_path:
