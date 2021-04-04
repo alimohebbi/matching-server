@@ -29,7 +29,7 @@ def relative_position(event: pd.Series, label: pd.Series):
     diff_y1 = abs(event_p.get_y1() - label_p.get_y1())
     diff_x1 = abs(event_p.get_x1() - label_p.get_x1())
 
-    if diff_y1 < 150 and diff_x1 < 150:
+    if diff_y1 < 250 and diff_x1 < 250:
         return True, diff_x1 + diff_y1
     return False, diff_x1 + diff_y1
 

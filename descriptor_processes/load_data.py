@@ -72,8 +72,15 @@ def add_non_existing_columns(df):
     return df
 
 
+def take_original_text(row):
+    if 'original_text' in row and '*' in str(row['original_text']):
+        return row['original_text'].replace('*', '')
+    return row['text']
+
+
 def reformat_df(df, columns_prefix):
     df = df.rename(columns={"content-desc": "content_desc", "resource-id": "id", "src": "file_name"})
+    df['text'] = df.apply(lambda row: take_original_text(row), axis=1)
     df = add_non_existing_columns(df)
     df = select_necessary_columns(df)
     add_source_or_target_columns(columns_prefix, df)
