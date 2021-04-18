@@ -15,6 +15,14 @@ class Config(object):
         self._config['model_path'] = paths
 
     @property
+    def threshold_use(self):
+        return self._get_property('threshold_use')
+
+    @property
+    def thresholds(self):
+        return self._get_property('thresholds')
+
+    @property
     def train_sets(self):
         return self._get_property('train_set')
 
@@ -25,18 +33,6 @@ class Config(object):
     @property
     def cache_size(self):
         return self._get_property('cache_size')
-
-    @property
-    def eval_repeat(self):
-        return self._get_property('eval_repeat')
-
-    @property
-    def save_p_results_path(self):
-        return self._get_property('save_p_results_path')
-
-    @property
-    def save_rank_results_path(self):
-        return self._get_property('save_rank_results_path')
 
     @property
     def train_data_path(self):
@@ -55,40 +51,10 @@ class Config(object):
         return self._get_property('top_n')
 
     @property
-    def atm_threshold(self):
-        return self._get_property('atm_threshold')
-
-    @property
-    def adaptdroid_lower_threshold(self):
-        return self._get_property('adaptdroid_lower_threshold')
-
-    @property
-    def adaptdroid_higher_threshold(self):
-        return self._get_property('adaptdroid_higher_threshold')
-
-    @property
     def model_path(self):
         return self._get_property('model_path')
 
-    @property
-    def src_event_dir(self):
-        return self._get_property('src_event_dir')
 
-    @property
-    def target_event_dir(self):
-        return self._get_property('target_event_dir')
-
-    @property
-    def index_path(self):
-        return self._get_property('index_path')
-
-    @property
-    def save_score_dir(self):
-        return self._get_property('save_score_dir')
-
-    @property
-    def save_map_dir(self):
-        return self._get_property('save_map_dir')
 
     @property
     def active_techniques(self):
@@ -99,18 +65,3 @@ class Config(object):
             return None  # just return None if not found
         return self._config[property_name]
 
-    @atm_threshold.setter
-    def atm_threshold(self, value):
-        self._config['atm_threshold'] = value
-
-    @top_n.setter
-    def top_n(self, value):
-        self._config['top_n'] = value
-
-    @adaptdroid_lower_threshold.setter
-    def adaptdroid_lower_threshold(self, value):
-        self._config['adaptdroid_lower_threshold'] = value
-
-    @adaptdroid_higher_threshold.setter
-    def adaptdroid_higher_threshold(self, value):
-        self._config['adaptdroid_higher_threshold'] = value

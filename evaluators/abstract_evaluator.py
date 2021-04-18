@@ -7,6 +7,7 @@ from config import Config
 from descriptor_processes.load_data import get_map
 from descriptor_processes.text_pre_process import space_cleaner
 from embedding.embedding_factory import SimpleEmbeddingFactory, ClustersEmbeddingFactory, EmbedTypes
+from threshold.threshold_get import get_threshold
 
 clustering_train_set = ['topics', 'category',
                         'hierarchy_category_edit',
@@ -27,11 +28,14 @@ class AbstractEvaluator(ABC):
         self.ranking_potential_matches = None
         self.active_technique = None
         self.technique = None
+        self.threshold = None
 
     def process_descriptors(self):
         mapping = get_map(self.events_list, self.descriptors_type)
         descriptors_data = self.create_sim(mapping)
         self.potential_matches = self.get_potential_matches(descriptors_data)
+        if self.config.threshold_use:
+            self.potential_matches = self.apply_threshold(self.potential_matches)
 
     @abstractmethod
     def get_potential_matches(self, descriptors_data):
@@ -43,6 +47,7 @@ class AbstractEvaluator(ABC):
     def set_models(self, active_technique, train_set, source_app=None):
         self.train_set = train_set
         self.active_technique = active_technique
+        self.threshold = get_threshold(self.active_technique, self.train_set)
         if train_set in clustering_train_set and not source_app:
             logging.debug('Skip set model')
             pass
@@ -97,3 +102,6 @@ class AbstractEvaluator(ABC):
         for key, value in descriptors.__dict__.items():
             descriptors.__dict__[key] = space_cleaner(value)
         return descriptors
+
+    def apply_threshold(self, potential_matches):
+        return potential_matches[potential_matches['score'] >= self.threshold]

@@ -1,14 +1,8 @@
 #model_dir: "/home/amohebbi/models/"
 model_dir: "/Users/usiusi/OneDrive - USI/Research/WordEmbeddingModels/"
-src_event_dir: "events/src_events/"
-target_event_dir: "events/target_events/"
-index_path: "events/index_map.csv"
-save_score_dir: "sim_scores/"
-save_map_dir: "events/total_map.csv"
-save_rank_results_path : "results_rank.csv"
-save_p_results_path : "results_p.csv"
-eval_repeat: 1
 cache_size: 10
+threshold_use: true
+thresholds: "threshold/thresholds.csv"
 active_techniques:
   - wm
 #  - w2v
