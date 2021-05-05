@@ -31,7 +31,7 @@ def score_descriptors(events_list):
         print('Source event is missing')
         return '{}'
     builder = EvaluatorBuilder()
-    builder.set_semantic_config(semantic_config)
+    builder.set_evaluation_config(semantic_config)
     builder.set_events_list(events_list)
     evaluator = builder.build()
     scored_events = evaluator.potential_matches.sort_values(by=['score'], ascending=False)

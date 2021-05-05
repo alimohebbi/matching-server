@@ -3,7 +3,7 @@ import pandas as pd
 
 config = Config()
 
-thresholds = pd.read_csv('../'+config.thresholds)
+thresholds = pd.read_csv(config.thresholds)
 pairs = set(thresholds['app_pairs'])
 
 
