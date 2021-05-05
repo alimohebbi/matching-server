@@ -19,16 +19,16 @@ clustering_train_set = ['topics', 'category',
 class AbstractEvaluator(ABC):
     config = Config()
 
-    def __init__(self, events_list, map_type):
+    def __init__(self, events_list, evaluation_config):
         self.train_set = None
         self.events_list = events_list
-        self.descriptors_type = map_type
+        self.descriptors_type = evaluation_config['descriptors']
         self.correct_number = None
         self.potential_matches = None
         self.ranking_potential_matches = None
         self.active_technique = None
         self.technique = None
-        self.threshold = None
+        self.threshold = evaluation_config['threshold']
 
     def process_descriptors(self):
         mapping = get_map(self.events_list, self.descriptors_type)
@@ -47,7 +47,6 @@ class AbstractEvaluator(ABC):
     def set_models(self, active_technique, train_set, source_app=None):
         self.train_set = train_set
         self.active_technique = active_technique
-        self.threshold = get_threshold(self.active_technique, self.train_set)
         if train_set in clustering_train_set and not source_app:
             logging.debug('Skip set model')
             pass

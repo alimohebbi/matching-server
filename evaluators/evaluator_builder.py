@@ -4,6 +4,7 @@ from evaluators.craftdroid_evaluator import CraftdroidEvaluator
 from evaluators.abstract_evaluator import AbstractEvaluator
 from evaluators.custom_evaluator import CustomEvaluator
 from evaluators.random_evaluator import RandomEvaluator
+from threshold.threshold_get import get_threshold
 
 
 def extract_threshold(algorithm: str):
@@ -13,60 +14,60 @@ def extract_threshold(algorithm: str):
 
 class EvaluatorBuilder:
     def __init__(self):
-        self._semantic_config = {'word_embedding': None, 'training_set': None, 'algorithm': None,
-                                 'descriptors': None}
+        self._evaluation_config = None
 
     def build(self) -> AbstractEvaluator:
         if not self.all_set():
             raise Exception('All four elements of configuration should be set')
         evaluator = self.find_evaluator(self.events_list)
-        evaluator.set_models(self._semantic_config['word_embedding'], self._semantic_config['training_set'])
+        evaluator.set_models(self._evaluation_config['word_embedding'], self._evaluation_config['training_set'])
         evaluator.process_descriptors()
         return evaluator
 
     def find_evaluator(self, events_list):
-        algorithm = self._semantic_config['algorithm']
+        algorithm = self._evaluation_config['algorithm']
         if algorithm.startswith('adaptdroid'):
-            evaluator = AdaptdroidEvaluator(events_list, self._semantic_config['descriptors'])
+            evaluator = AdaptdroidEvaluator(events_list, self._evaluation_config)
             evaluator.set_threshold(extract_threshold(algorithm))
         elif algorithm == 'craftdroid':
-            evaluator = CraftdroidEvaluator(events_list, self._semantic_config['descriptors'])
+            evaluator = CraftdroidEvaluator(events_list, self._evaluation_config)
         elif algorithm.startswith('atm'):
-            evaluator = ATMEvaluator(events_list, self._semantic_config['descriptors'])
+            evaluator = ATMEvaluator(events_list, self._evaluation_config)
             evaluator.set_threshold(extract_threshold(algorithm))
         elif algorithm == 'custom':
-            evaluator = CustomEvaluator(events_list, self._semantic_config['descriptors'])
+            evaluator = CustomEvaluator(events_list, self._evaluation_config)
         elif algorithm == 'random':
-            evaluator = RandomEvaluator(events_list, self._semantic_config['descriptors'])
+            evaluator = RandomEvaluator(events_list, self._evaluation_config)
         else:
-            raise Exception('Algorithm ' + self._semantic_config['algorithm'] + ' do not exist')
+            raise Exception('Algorithm ' + self._evaluation_config['algorithm'] + ' do not exist')
         return evaluator
 
     def set_word_embedding(self, embedding):
-        self._semantic_config['word_embedding'] = embedding
+        self._evaluation_config['word_embedding'] = embedding
 
     def set_algorithm(self, algorithm):
-        self._semantic_config['algorithm'] = algorithm
+        self._evaluation_config['algorithm'] = algorithm
 
     def set_train_set(self, train_set):
-        self._semantic_config['training_set'] = train_set
+        self._evaluation_config['training_set'] = train_set
 
     def set_descriptors(self, descriptors):
-        self._semantic_config['descriptors'] = descriptors
+        self._evaluation_config['descriptors'] = descriptors
 
     def all_set(self):
-        if self._semantic_config['word_embedding'] is None:
+        if self._evaluation_config['word_embedding'] is None:
             return False
-        if self._semantic_config['algorithm'] is None:
+        if self._evaluation_config['algorithm'] is None:
             return False
-        if self._semantic_config['training_set'] is None:
+        if self._evaluation_config['training_set'] is None:
             return False
-        if self._semantic_config['descriptors'] is None:
+        if self._evaluation_config['descriptors'] is None:
             return False
         return True
 
-    def set_semantic_config(self, semantic_config):
-        self._semantic_config = semantic_config
+    def set_evaluation_config(self, evaluation_config):
+        self._evaluation_config = evaluation_config
+        self._evaluation_config['threshold'] = get_threshold(evaluation_config)
 
     def set_events_list(self, events_list):
         self.events_list = events_list
