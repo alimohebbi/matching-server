@@ -28,8 +28,8 @@ def score_descriptors(events_list):
     if forbidden_config(semantic_config):
         raise Exception("Config is forbidden")
     if not events_list['sourceEvent']:
-        print(events_list['sourceEvent'])
-        raise Exception("Source event is missing")
+        print('Source event is missing')
+        return '{}'
     builder = EvaluatorBuilder()
     builder.set_semantic_config(semantic_config)
     builder.set_events_list(events_list)
