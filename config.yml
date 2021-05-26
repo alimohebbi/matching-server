@@ -2,7 +2,7 @@
 model_dir: "/Users/usiusi/OneDrive - USI/Research/WordEmbeddingModels/"
 cache_size: 10
 threshold_use: true
-thresholds: "threshold/thresholds.csv"
+thresholds: "/Users/usiusi/Documents/Repositories/matching-server/threshold/thresholds.csv"
 active_techniques:
   - wm
 #  - w2v

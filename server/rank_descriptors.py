@@ -41,13 +41,12 @@ def score_descriptors(events_list):
 def score_descriptors2(descriptors):
     candidates = descriptors["candidates"]
     result_keys = list(candidates.keys())
-    pprint(descriptors["targetLabels"])
     random.shuffle(result_keys)
     result = {}
     for i in result_keys:
         result[i] = random.random()
     pprint(result)
-    return result
+    return json.dumps(result)
 
 
 def delete_non_related_keys(candidates):
@@ -62,7 +61,7 @@ def delete_non_related_keys(candidates):
 
 if __name__ == '__main__':
     # sample = open('input_sample-old.txt').read()
-    sample = open('syntetic_input.txt').read()
+    sample = open('input_sample-old.txt').read()
     list_events = json.loads(sample)
     results = score_descriptors(list_events)
     pprint(results)
