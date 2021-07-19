@@ -21,9 +21,10 @@ def pair_find(raw_pair):
 
 
 def get_threshold(evaluation_config):
-    app_pair = pair_find(evaluation_config['app_pair'])
-    if app_pair == 'craftdroid':
+    if evaluation_config['app_pair'] == 'craftdroid':
         return 0
+
+    app_pair = pair_find(evaluation_config['app_pair'])
     condition = (thresholds['embedding'] == evaluation_config['word_embedding']) & \
                 (thresholds['train_set'] == evaluation_config['training_set']) & \
                 (thresholds['algorithm'] == evaluation_config['algorithm']) & \

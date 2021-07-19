@@ -28,12 +28,10 @@ class EvaluatorBuilder:
         algorithm = self._evaluation_config['algorithm']
         if algorithm.startswith('adaptdroid'):
             evaluator = AdaptdroidEvaluator(events_list, self._evaluation_config)
-            evaluator.set_threshold(extract_threshold(algorithm))
         elif algorithm == 'craftdroid':
             evaluator = CraftdroidEvaluator(events_list, self._evaluation_config)
         elif algorithm.startswith('atm'):
             evaluator = ATMEvaluator(events_list, self._evaluation_config)
-            evaluator.set_threshold(extract_threshold(algorithm))
         elif algorithm == 'custom':
             evaluator = CustomEvaluator(events_list, self._evaluation_config)
         elif algorithm == 'random':
