@@ -23,12 +23,21 @@ def forbidden_config(semantic_config):
         return semantic_config['training_set'] == 'empty'
 
 
+def request_empty(events_list):
+    if not events_list['sourceEvent']:
+        print('Source event is missing')
+        return True
+    elif not events_list['candidates']:
+        print('Target candidates are missing')
+        return True
+    return False
+
+
 def score_descriptors(events_list):
     semantic_config = json.loads(events_list['smConfig'])
     if forbidden_config(semantic_config):
         raise Exception("Config is forbidden")
-    if not events_list['sourceEvent']:
-        print('Source event is missing')
+    if request_empty(events_list):
         return '{}'
     builder = EvaluatorBuilder()
     builder.set_evaluation_config(semantic_config)
@@ -61,7 +70,7 @@ def delete_non_related_keys(candidates):
 
 if __name__ == '__main__':
     # sample = open('input_sample-old.txt').read()
-    sample = open('input_sample-old.txt').read()
+    sample = open('input_sample.txt').read()
     list_events = json.loads(sample)
     results = score_descriptors(list_events)
     pprint(results)
