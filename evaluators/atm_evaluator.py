@@ -38,9 +38,8 @@ class ATMEvaluator(AbstractEvaluator):
             return self.compute_non_editable(descriptors)
 
     def get_potential_matches(self, data):
-        threshold_condition = (data[self.active_technique] >= self.config.atm_threshold)
         same_type_condition = (data['src_type'] == data['target_type'])
-        return data[threshold_condition & same_type_condition]
+        return data[same_type_condition]
 
     def set_threshold(self, threshold):
         self.config.atm_threshold = threshold
