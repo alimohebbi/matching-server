@@ -9,3 +9,4 @@ analysis_results/plots-p-new/
 analysis_results/plots
 embedding/app_to_cluster.csv
 cluster_results
+venv-bert
