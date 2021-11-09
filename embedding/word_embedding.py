@@ -121,9 +121,9 @@ class Bert(WordEmbedding):
     sentence_level = True
 
     # start a server first
-    # bert-serving-start -model_dir /Users/usiusi/Documents/Report/WordEmbedding/models/uncased_L-12_H-768_A-12 -num_worker=1
+    # bert-serving-start -model_dir /root/models/bert/uncased_L-12_H-768_A-12 -num_worker=1 -port 3333 -port_out 3334
     def __init__(self, model_path):
-        self.bc = BertClient(check_length=False)
+        self.bc = BertClient(check_length=False, port=3333, port_out=3334)
         super().__init__(model_path)
 
     def calc_sim_by_model(self, a, b):

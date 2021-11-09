@@ -1,12 +1,4 @@
-{"candidates": {"0": {"activity": "privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.products.ProductsActivity",
-                      "class": "android.view.MenuItem",
-                      "resource-id": "imageview_delete",
-                      "text": "Delete"},
-                "3": {"activity": "privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.deleteproducts.DeleteProductsActivity",
-                      "class": "android.support.design.widget.FloatingActionButton",
-                      "resource-id": "fab_delete_products",
-                      "text": ""}
-               },
+{"candidates": null,
  "sourceEvent": {"activity": "br.com.vansact.MainApp",
                  "bounds": "[1048,84][1244,252]",
                  "checkable": "false",
