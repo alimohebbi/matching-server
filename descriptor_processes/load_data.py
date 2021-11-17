@@ -80,8 +80,8 @@ def take_original_text(row):
 
 def reformat_df(df, columns_prefix):
     df = df.rename(columns={"content-desc": "content_desc", "resource-id": "id", "src": "file_name"})
-    df['text'] = df.apply(lambda row: take_original_text(row), axis=1)
     df = add_non_existing_columns(df)
+    df['text'] = df.apply(lambda row: take_original_text(row), axis=1)
     df = select_necessary_columns(df)
     add_source_or_target_columns(columns_prefix, df)
     df[columns_prefix + 'id'] = df[columns_prefix + 'id'].apply(lambda s: clean_id(s))

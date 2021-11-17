@@ -1,6 +1,6 @@
-#model_dir: "/home/amohebbi/models/"
-model_dir: "/Users/usiusi/OneDrive - USI/Research/WordEmbeddingModels/"
-cache_size: 10
+model_dir: "/root/models/"
+#model_dir: "/Users/usiusi/OneDrive - USI/Research/WordEmbeddingModels/"
+cache_size: 1
 threshold_use: true
 thresholds: "/root/test-reuse/matching-server/threshold/thresholds.csv"
 #thresholds: "/Users/usiusi/Documents/Repositories/matching-server/threshold/thresholds.csv"
