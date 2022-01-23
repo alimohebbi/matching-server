@@ -4,6 +4,8 @@ cache_size: 1
 threshold_use: true
 #thresholds: "/root/test-reuse/matching-server/threshold/thresholds.csv"
 thresholds: "/Users/usiusi/Documents/Repositories/matching-server/threshold/thresholds.csv"
+ground_truth: "/root/test-reuse/matching-server/prefrect_matcher/gt_table.csv"
+#ground_truth: "/Users/usiusi/Documents/Repositories/matching-server/prefrect_matcher/gt_table.csv"
 active_techniques:
   - wm
 #  - w2v
