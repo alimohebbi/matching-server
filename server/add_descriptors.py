@@ -47,10 +47,10 @@ class Position:
         return self.bounds[0][1]
 
     def get_x2(self):
-        return self.bounds[1][0] + self.get_x1()
+        return self.bounds[1][0]
 
     def get_y2(self):
-        return self.bounds[1][1] + self.get_y1()
+        return self.bounds[1][1]
 
     def set_x1(self, x1):
         self.bounds[0][0] = x1
