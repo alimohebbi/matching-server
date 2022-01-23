@@ -3,6 +3,7 @@ from evaluators.atm_evaluator import ATMEvaluator
 from evaluators.craftdroid_evaluator import CraftdroidEvaluator
 from evaluators.abstract_evaluator import AbstractEvaluator
 from evaluators.custom_evaluator import CustomEvaluator
+from evaluators.perfect_evaluator import PerfectEvaluator
 from evaluators.random_evaluator import RandomEvaluator
 from threshold.threshold_get import get_threshold
 
@@ -36,6 +37,8 @@ class EvaluatorBuilder:
             evaluator = CustomEvaluator(events_list, self._evaluation_config)
         elif algorithm == 'random':
             evaluator = RandomEvaluator(events_list, self._evaluation_config)
+        elif algorithm == 'perfect':
+            evaluator = PerfectEvaluator(events_list, self._evaluation_config)
         else:
             raise Exception('Algorithm ' + self._evaluation_config['algorithm'] + ' do not exist')
         return evaluator

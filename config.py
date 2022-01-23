@@ -31,6 +31,10 @@ class Config(object):
         return self._get_property('clusters')
 
     @property
+    def ground_truth(self):
+        return self._get_property('ground_truth')
+
+    @property
     def cache_size(self):
         return self._get_property('cache_size')
 

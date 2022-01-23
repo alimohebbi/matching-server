@@ -21,7 +21,7 @@ def pair_find(raw_pair):
 
 
 def get_threshold(evaluation_config):
-    if evaluation_config['app_pair'] == 'craftdroid' or evaluation_config['algorithm'] == 'random':
+    if 'craftdroid' in evaluation_config['app_pair'] or evaluation_config['algorithm'] == 'random':
         return 0
 
     app_pair = pair_find(evaluation_config['app_pair'])

@@ -20,21 +20,23 @@ def relative_position(event: pd.Series, label: pd.Series):
     event_p = Position(event)
     label_p = Position(label)
 
-    if event_p.get_x1() < label_p.get_x1() and event_p.get_x2() < label_p.get_x1():
+    if event_p.get_x1() < label_p.get_x1():
         event_p.set_x1(event_p.get_x2())
-    elif label_p.get_x1() < event_p.get_x1() and label_p.get_x2() < event_p.get_x1():
+    elif label_p.get_x1() < event_p.get_x1():
         label_p.set_x1(label_p.get_x2())
-    # if label_p.get_y1() < event_p.get_y1() and label_p.get_y2() < event_p.get_y1():
-    #     label_p.set_y1(label_p.get_y2())
+
     diff_y1 = abs(event_p.get_y1() - label_p.get_y1())
     diff_x1 = abs(event_p.get_x1() - label_p.get_x1())
-
-    if diff_y1 < 250 and diff_x1 < 250:
+    if get_text(event):
+        if diff_y1 < 150 and diff_x1 < 150:
+            return True, diff_x1 + diff_y1
+    elif diff_y1 < 250 and diff_x1 < 250:
         return True, diff_x1 + diff_y1
     return False, diff_x1 + diff_y1
 
 
 class Position:
+
     def __init__(self, series):
         self.bounds = ast.literal_eval('[' + series['bounds'].replace('][', '],[') + ']')
 

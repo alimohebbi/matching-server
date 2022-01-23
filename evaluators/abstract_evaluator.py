@@ -21,6 +21,7 @@ class AbstractEvaluator(ABC):
 
     def __init__(self, events_list, evaluation_config):
         self.train_set = None
+        self.eval_config = evaluation_config
         self.events_list = events_list
         self.descriptors_type = evaluation_config['descriptors']
         self.correct_number = None

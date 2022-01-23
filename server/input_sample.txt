@@ -446,6 +446,7 @@
                         "y1": "288",
                         "y2": "718"}},
  "targetLabels": null,
- "smConfig":     "{\"algorithm\": \"random\", \"word_embedding\": \"random\", \"descriptors\": \"atm\", \"training_set\": \"empty\", \"app_pair\": \"NoteTaking4-NoteTaking3\"}"
+ "smConfig":     "{\"algorithm\": \"perfect\", \"word_embedding\": \"wm\", \"descriptors\": \"craftdroid\", \"training_set\": \"android\", \"app_pair\": \"craftdroid-a11-a31-b12\"}"
+
 
  }

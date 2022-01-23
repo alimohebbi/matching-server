@@ -13,7 +13,7 @@ class ApproachDescriptors:
     default_columns = ['src_class', 'target_class', 'src_type', 'target_type']
     atm = ['text', 'id', 'content_desc', 'hint', 'neighbor', 'file_name']
     craftdroid = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity']
-    adaptdroid = ['text', 'id', 'content_desc', 'file_name', 'neighbors', 'fillable_neighbor']
+    adaptdroid = ['text', 'id', 'content_desc', 'file_name', 'neighbors']
     union = ['text', 'id', 'content_desc', 'hint', 'parent_text', 'sibling_text', 'activity', 'neighbor',
              'file_name']
     intersection = ['text', 'id', 'content_desc', 'hint']
