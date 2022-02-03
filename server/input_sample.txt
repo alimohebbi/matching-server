@@ -1,29 +1,20 @@
 {"candidates": {
-                   "0": {
-                     "index": "0",
-                     "text": "",
-                     "resource-id": "android:id/decor_content_parent",
-                     "class": "android.view.ViewGroup",
-                     "package": "br.com.activity",
-                     "content-desc": "",
-                     "checkable": "false",
-                     "checked": "false",
-                     "clickable": "false",
-                     "enabled": "true",
-                     "scrollable": "false",
-                     "long-clickable": "false",
-                     "password": "false",
-                     "selected": "false",
-                     "bounds": "[0,0][1440,2392]",
-                     "x1": "0",
-                     "y1": "0",
-                     "width": "1440",
-                     "height": "2392",
-                     "x2": "1440",
-                     "y2": "2392",
-                     "activity": "br.com.vansact.AddItemShoppingList",
-                     "parent_text": ""
-                   },
+                    "8": {
+                                                  "class": "android.widget.EditText",
+                                                  "resource-id": "kdk.android.simplydo:id/AddListEditText",
+                                                  "text": "New List Name",
+                                                  "content-desc": "",
+                                                  "clickable": "true",
+                                                  "password": "false",
+                                                  "parent_text": "",
+                                                  "sibling_text": "",
+                                                  "tid": "a24",
+                                                  "package": "kdk.android.simplydo",
+                                                  "activity": ".SimplyDoActivity",
+                                                  "ignorable": "false",
+                                                  "event_type": "gui",
+                                                "bounds": "[0,140][56,196]"
+                                             },
                    "1": {
                      "index": "0",
                      "text": "",
@@ -204,7 +195,8 @@
                      "activity": "br.com.vansact.AddItemShoppingList",
                      "parent_text": ""
                    },
-                   "8": {
+
+                   "0": {
                      "index": "0",
                      "text": "Add an item",
                      "resource-id": "br.com.activity:id/edDescription",
@@ -358,28 +350,23 @@
                      "parent_text": ""
                    }
                  },
- "sourceEvent": {"activity": "br.com.vansact.MainApp",
-                 "bounds": "[1048,84][1244,252]",
-                 "checkable": "false",
-                 "checked": "false",
-                 "class": "android.widget.TextView",
-                 "clickable": "true",
-                 "content-desc": "New list",
-                 "enabled": "true",
-                 "height": "252",
-                 "index": "0",
-                 "long-clickable": "true",
-                 "package": "br.com.activity",
-                 "password": "false",
-                 "resource-id": "br.com.activity:id/action_add",
-                 "scrollable": "false",
-                 "selected": "false",
-                 "text": "",
-                 "width": "1244",
-                 "x1": "1048",
-                 "x2": "2292",
-                 "y1": "84",
-                 "y2": "336"},
+ "sourceEvent": {
+                        "class": "android.widget.EditText",
+                        "resource-id": "douzifly.list:id/edit_text",
+                        "text": "Title",
+                        "content-desc": "",
+                        "clickable": "true",
+                        "password": "false",
+                        "parent_text": "",
+                        "sibling_text": "",
+                        "tid": "a22",
+                        "package": "douzifly.list",
+                        "activity": ".ui.home.MainActivity",
+                        "ignorable": "false",
+                        "event_type": "gui",
+                     "bounds": "[0,140][56,196]"
+
+                  },
  "sourceLabels": {"0": {"bounds": "[1109,12][1173,71]",
                         "checkable": "false",
                         "checked": "false",
@@ -446,7 +433,7 @@
                         "y1": "288",
                         "y2": "718"}},
  "targetLabels": null,
- "smConfig":     "{\"algorithm\": \"perfect\", \"word_embedding\": \"wm\", \"descriptors\": \"craftdroid\", \"training_set\": \"android\", \"app_pair\": \"craftdroid-a11-a31-b12\"}"
+ "smConfig":     "{\"algorithm\": \"perfect\", \"word_embedding\": \"glove\", \"descriptors\": \"craftdroid\", \"training_set\": \"googleplay\", \"app_pair\": \"craftdroid-a22-a24-b2\"}"
 
 
  }
