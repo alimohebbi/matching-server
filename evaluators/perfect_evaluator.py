@@ -5,7 +5,7 @@ from evaluators.abstract_evaluator import AbstractEvaluator
 
 important_filed = ['text', 'content-desc', 'resource-id', 'activity']
 config = Config()
-gt_table = pd.read_csv(config.ground_truth).fillna('')
+# gt_table = pd.read_csv(config.ground_truth).fillna('')
 
 
 class PerfectEvaluator(AbstractEvaluator):
