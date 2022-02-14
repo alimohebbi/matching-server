@@ -58,6 +58,10 @@ class Config(object):
     def model_path(self):
         return self._get_property('model_path')
 
+    @property
+    def query_log(self):
+        return self._get_property('query_log')
+
 
 
     @property

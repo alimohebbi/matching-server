@@ -1,9 +1,9 @@
 import json
-import random
 from pprint import pprint
 
 from config import Config
 from evaluators.evaluator_builder import EvaluatorBuilder
+from server.query_util import log_query_scored, log_query_raw, log_query
 
 config = Config()
 embedding = config.active_techniques[0]
@@ -44,18 +44,8 @@ def score_descriptors(events_list):
     builder.set_events_list(events_list)
     evaluator = builder.build()
     scored_events = evaluator.potential_matches.sort_values(by=['score'], ascending=False)
+    log_query(scored_events,events_list, semantic_config)
     return scored_events['score'].to_json()
-
-
-def score_descriptors2(descriptors):
-    candidates = descriptors["candidates"]
-    result_keys = list(candidates.keys())
-    random.shuffle(result_keys)
-    result = {}
-    for i in result_keys:
-        result[i] = random.random()
-    pprint(result)
-    return json.dumps(result)
 
 
 def delete_non_related_keys(candidates):

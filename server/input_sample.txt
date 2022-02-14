@@ -433,7 +433,7 @@
                         "y1": "288",
                         "y2": "718"}},
  "targetLabels": null,
- "smConfig":     "{\"algorithm\": \"perfect\", \"word_embedding\": \"glove\", \"descriptors\": \"craftdroid\", \"training_set\": \"googleplay\", \"app_pair\": \"craftdroid-a22-a24-b2\"}"
+ "smConfig":     "{\"algorithm\": \"custom\", \"word_embedding\": \"wm\", \"descriptors\": \"intersection\", \"training_set\": \"android\", \"app_pair\": \"a22-a24-b2-craftdroid\"}"
 
 
  }

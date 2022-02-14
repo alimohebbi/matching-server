@@ -2,6 +2,7 @@ import pandas as pd
 
 from config import Config
 from evaluators.abstract_evaluator import AbstractEvaluator
+from server.query_util import MigrationInfo
 
 important_filed = ['text', 'content-desc', 'resource-id', 'activity']
 config = Config()
@@ -17,10 +18,10 @@ class PerfectEvaluator(AbstractEvaluator):
         return row
 
     def assign_score(self, descriptors):
-        app_pair = self.eval_config['app_pair'].replace('craftdroid-', '')
-        src = app_pair.split('-')[0]
-        target = app_pair.split('-')[1]
-        task = app_pair.split('-')[2]
+        m_info = MigrationInfo(self.eval_config['app_pair'])
+        src = m_info.src
+        target = m_info.target
+        task = m_info.task
         src += task
         target += task
         condition_migration = (gt_table['src_app'] == src) & (gt_table['target_app'] == target)
