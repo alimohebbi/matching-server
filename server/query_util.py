@@ -2,10 +2,11 @@ from datetime import date, datetime
 import pandas as pd
 
 from config import Config
-from descriptor_processes.load_data import reformat_df, concat_rows_horizontally
+from descriptor_processes.load_data import reformat_df, concat_rows_horizontally, ApproachDescriptors
 
 config = Config()
 timestamp = None
+
 
 class MigrationInfo():
 
@@ -34,10 +35,23 @@ def log_query_raw(events_list, semantic_config):
         events_list_df.to_csv(f, mode='a', header=f.tell() == 0)
 
 
+def add_non_existing_columns(df):
+    required_columns = ApproachDescriptors.union + ['class']
+
+    for i in required_columns:
+        src_attr = 'src_' + i
+        target_attr = 'target_' + i
+        if src_attr not in df.columns:
+            df[src_attr] = ''
+            df[target_attr] = ''
+    return df
+
+
 def log_query_scored(scored_events: pd.DataFrame, semantic_config):
     today = date.today()
     file_name = config.query_log + str(today) + '.csv'
     add_migration_info(scored_events, semantic_config)
+    add_non_existing_columns(scored_events)
     with open(file_name, 'a') as f:
         scored_events.to_csv(f, mode='a', header=f.tell() == 0)
 
