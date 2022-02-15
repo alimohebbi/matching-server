@@ -1,9 +1,0 @@
-index_m,src_class,target_class,src_type,target_type,src_text,src_id,src_content_desc,src_hint,target_text,target_id,target_content_desc,target_hint,score,index,src,target,task,algorithm,word_embedding,descriptors,training_set
-8,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,new list name,add list edit text,,,0.3191768888111015,1644856277.996962,a22,a24,b2,custom,wm,intersection,android
-0,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,add item,ed description,,,0.24814069584242265,1644856277.996962,a22,a24,b2,custom,wm,intersection,android
-9,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,,ed quantity,,,0.2278824712583953,1644856277.996962,a22,a24,b2,custom,wm,intersection,android
-10,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,u,ed unit value,,,0.20578332949191838,1644856277.996962,a22,a24,b2,custom,wm,intersection,android
-8,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,new list name,add list edit text,,,0.3191768888111015,1644856927.140519,a22,a24,b2,custom,wm,intersection,android
-0,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,add item,ed description,,,0.24814069584242265,1644856927.140519,a22,a24,b2,custom,wm,intersection,android
-9,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,,ed quantity,,,0.2278824712583953,1644856927.140519,a22,a24,b2,custom,wm,intersection,android
-10,android.widget.EditText,android.widget.EditText,fillable,fillable,title,edit text,,,u,ed unit value,,,0.20578332949191838,1644856927.140519,a22,a24,b2,custom,wm,intersection,android

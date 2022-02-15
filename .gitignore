@@ -11,3 +11,4 @@ embedding/app_to_cluster.csv
 cluster_results
 venv-bert
 config.yml
+query_log/*.csv
