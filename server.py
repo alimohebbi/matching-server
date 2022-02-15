@@ -5,7 +5,7 @@ from flask import Response
 from flask import Flask
 import json
 
-from server.rank_descriptors import score_descriptors, score_descriptors2
+from server.rank_descriptors import score_descriptors
 
 app = Flask(__name__)
 
