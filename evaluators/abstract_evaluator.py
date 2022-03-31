@@ -7,7 +7,6 @@ from config import Config
 from descriptor_processes.load_data import get_map
 from descriptor_processes.text_pre_process import space_cleaner
 from embedding.embedding_factory import SimpleEmbeddingFactory, ClustersEmbeddingFactory, EmbedTypes
-from threshold.threshold_get import get_threshold
 
 clustering_train_set = ['topics', 'category',
                         'hierarchy_category_edit',

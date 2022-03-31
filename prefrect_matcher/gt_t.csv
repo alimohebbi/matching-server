@@ -1,381 +1,345 @@
 src_class,src_content_desc,src_text,src_activity,src_id,src_app,target_class,target_content_desc,target_text,target_activity,target_id,target_app
-android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12,android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12
-android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12,android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12
-android.widget.EditText,,https://www.ics.uci.edu/,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12,android.widget.EditText,,https://www.ics.uci.edu,.MainActivity,acr.browser.lightning:id/search,a11b12
-android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12,android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12
-android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12,android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12
-android.widget.EditText,,https://www.ics.uci.edu,.MainActivity,acr.browser.lightning:id/search,a11b12,android.widget.EditText,,https://www.ics.uci.edu/,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12
-android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12,android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12
-android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12,android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12
-android.widget.EditText,,https://www.ics.uci.edu,.MainActivity,acr.browser.lightning:id/search,a11b12,android.widget.EditText,,https://www.ics.uci.edu/,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12
-android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12,android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12
-android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12,android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12
-android.widget.EditText,,https://www.ics.uci.edu/,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12,android.widget.EditText,,https://www.ics.uci.edu/,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12
-android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12,android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12
-android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12,android.widget.EditText,,Search,.MainActivity,acr.browser.lightning:id/search,a11b12
-android.widget.EditText,,https://www.ics.uci.edu/,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12,android.widget.EditText,,https://www.ics.uci.edu,.MainActivity,acr.browser.lightning:id/search,a11b12
-android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12,android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12
-android.widget.EditText,,Search or type URL,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12,android.widget.EditText,,https://duckduckgo.com/?kao=-1&kak=-1,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12
-android.widget.EditText,,https://www.ics.uci.edu/,.Activity.BrowserActivity,de.baumann.browser:id/main_omnibox_input,a14b12,android.widget.EditText,,https://www.ics.uci.edu/,com.stoutner.privacybrowser.activities.MainWebViewActivity,com.stoutner.privacybrowser.standard:id/url_edittext,a13b12
-android.widget.ImageButton,,,.MainActivity,com.rubenroy.minimaltodo:id/addToDoItemFAB,a21b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22,android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22
-android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22,android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22
-android.widget.ImageButton,,,.MainActivity,com.rubenroy.minimaltodo:id/addToDoItemFAB,a21b22,android.widget.ImageButton,,,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/fab_new_task,a23b22
-android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22,android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22
-android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22,android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22
-android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22,android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22
-android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22,android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22
-android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22,android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22
-android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22,android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22
-android.widget.ImageButton,,,.MainActivity,com.rubenroy.minimaltodo:id/addToDoItemFAB,a21b22,android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22
-android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22,android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22
-android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22,android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22
-android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22,android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.ImageButton,,,.MainActivity,com.rubenroy.minimaltodo:id/addToDoItemFAB,a21b22
-android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22,android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22
-android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22,android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.ImageButton,,,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/fab_new_task,a23b22
-android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22,android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22
-android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22,android.widget.TextView,,Sample Todo,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,a23b22
-android.widget.TextView,,DELETE,.ui.home.MainActivity,douzifly.list:id/btn_delete,a22b22,android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22
-android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22,android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22
-android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22,android.widget.TextView,,Sample Todo,.SimplyDoActivity,kdk.android.simplydo:id/text1,a24b22
-android.widget.TextView,,DELETE,.ui.home.MainActivity,douzifly.list:id/btn_delete,a22b22,android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22
-android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22,android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22
-android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22,android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22
-android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22,android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22
-android.widget.ImageButton,,,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/fab_new_task,a23b22,android.widget.ImageButton,,,.MainActivity,com.rubenroy.minimaltodo:id/addToDoItemFAB,a21b22
-android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22,android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22
-android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22,android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22
-android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22,android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22
-android.widget.ImageButton,,,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/fab_new_task,a23b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22,android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22
-android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.TextView,,Sample Todo,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,a23b22,android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22
-android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22,android.widget.TextView,,DELETE,.ui.home.MainActivity,douzifly.list:id/btn_delete,a22b22
-android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22,android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22
-android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22,android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22
-android.widget.TextView,,Sample Todo,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,a23b22,android.widget.TextView,,Sample Todo,.SimplyDoActivity,kdk.android.simplydo:id/text1,a24b22
-android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22,android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22
-android.widget.ImageButton,,,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/fab_new_task,a23b22,android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22
-android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22,android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22
-android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22,android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22
-android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22,android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22
-android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22,android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22
-android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22,android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22
-android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22,android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22
-android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22,android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22
-android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.TextView,,Sample Todo,.SimplyDoActivity,kdk.android.simplydo:id/text1,a24b22,android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22
-android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22,android.widget.TextView,,DELETE,.ui.home.MainActivity,douzifly.list:id/btn_delete,a22b22
-android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22,android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22
-android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22,android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22
-android.widget.TextView,,Sample Todo,.SimplyDoActivity,kdk.android.simplydo:id/text1,a24b22,android.widget.TextView,,Sample Todo,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/tv_exlv_task_name,a23b22
-android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22,android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22
-android.widget.EditText,,New List Name,.SimplyDoActivity,kdk.android.simplydo:id/AddListEditText,a24b22,android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22
-android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22,android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22
-android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22,android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22
-android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22,android.widget.ImageButton,,,.MainActivity,com.rubenroy.minimaltodo:id/addToDoItemFAB,a21b22
-android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22,android.widget.EditText,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/userToDoEditText,a21b22
-android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22,android.widget.ImageButton,,,.AddToDoActivity,com.rubenroy.minimaltodo:id/makeToDoFloatingActionButton,a21b22
-android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22,android.widget.TextView,,Sample Todo,.MainActivity,com.rubenroy.minimaltodo:id/toDoListItemTextview,a21b22
-android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22,android.widget.EditText,,Title,.ui.home.MainActivity,douzifly.list:id/edit_text,a22b22
-android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22,android.widget.ImageButton,,,.ui.home.MainActivity,douzifly.list:id/fab_add,a22b22
-android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22,android.widget.TextView,,Sample Todo,.ui.home.MainActivity,douzifly.list:id/txt_thing,a22b22
-android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22,android.widget.ImageButton,,,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/fab_new_task,a23b22
-android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22,android.widget.EditText,,Name,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/et_new_task_name,a23b22
-android.widget.ImageButton,Done,,.activity.MainActivity,com.woefe.shoppinglist:id/button_add_new_item,a25b22,android.widget.Button,,OKAY,.view.MainActivity,org.secuso.privacyfriendlytodolist:id/bt_new_task_ok,a23b22
-android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22,android.widget.TextView,,Delete To-Do Task,.view.MainActivity,android:id/title,a23b22
-android.widget.ImageButton,,,.activity.MainActivity,com.woefe.shoppinglist:id/fab_add,a25b22,android.widget.Button,,Add,.SimplyDoActivity,kdk.android.simplydo:id/AddListButton,a24b22
-android.widget.EditText,,New Item,.activity.MainActivity,com.woefe.shoppinglist:id/new_item_description,a25b22,android.widget.TextView,,Sample Todo,.SimplyDoActivity,kdk.android.simplydo:id/text1,a24b22
-android.widget.Button,,JOIN,.activity.ProfileActivity,com.rainbowshops:id/button_sign_up,a33b31,android.widget.Button,,Sign Up,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,com.yelp.android:id/sign_up_button,a35b31
-android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_email,a33b31,android.widget.EditText,,Email,.ui.activities.ActivityCreateAccount,com.yelp.android:id/email_address,a35b31
-android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_password,a33b31,android.widget.EditText,,Password,.ui.activities.ActivityCreateAccount,com.yelp.android:id/password,a35b31
-android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_last_name,a33b31,android.widget.EditText,,Last Name,.ui.activities.ActivityCreateAccount,com.yelp.android:id/last_name,a35b31
-android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_first_name,a33b31,android.widget.EditText,,First Name,.ui.activities.ActivityCreateAccount,com.yelp.android:id/first_name,a35b31
-android.widget.Button,,CREATE ACCOUNT,.activity.LoginAndSignUpActivity,com.rainbowshops:id/button_sign_up,a33b31,android.widget.Button,,Next,.ui.activities.ActivityCreateAccount,com.yelp.android:id/signup_next_button_2,a35b31
-android.widget.Button,,Sign Up,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,com.yelp.android:id/sign_up_button,a35b31,android.widget.Button,,JOIN,.activity.ProfileActivity,com.rainbowshops:id/button_sign_up,a33b31
-android.widget.EditText,,Email,.ui.activities.ActivityCreateAccount,com.yelp.android:id/email_address,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_email,a33b31
-android.widget.EditText,,Password,.ui.activities.ActivityCreateAccount,com.yelp.android:id/password,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_password,a33b31
-android.widget.EditText,,Last Name,.ui.activities.ActivityCreateAccount,com.yelp.android:id/last_name,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_last_name,a33b31
-android.widget.EditText,,First Name,.ui.activities.ActivityCreateAccount,com.yelp.android:id/first_name,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_first_name,a33b31
-android.widget.Button,,Next,.ui.activities.ActivityCreateAccount,com.yelp.android:id/signup_next_button_2,a35b31,android.widget.Button,,CREATE ACCOUNT,.activity.LoginAndSignUpActivity,com.rainbowshops:id/button_sign_up,a33b31
-android.widget.Button,,LOG IN,.activity.ProfileActivity,com.rainbowshops:id/button_log_in,a33b32,android.widget.Button,,Log In,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,com.yelp.android:id/log_in_button,a35b32
-android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_password,a33b32,android.widget.EditText,,Password,.ui.activities.ActivityLogin,com.yelp.android:id/activity_login_editPassword,a35b32
-android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_username,a33b32,android.widget.EditText,,Email,.ui.activities.ActivityLogin,com.yelp.android:id/activity_login_editUsername,a35b32
-android.widget.Button,,SIGN IN,.activity.LoginAndSignUpActivity,com.rainbowshops:id/button_sign_in,a33b32,android.widget.Button,,Log In,.ui.activities.ActivityLogin,com.yelp.android:id/activity_login_btnLogin,a35b32
-android.widget.Button,,Log In,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,com.yelp.android:id/log_in_button,a35b32,android.widget.Button,,LOG IN,.activity.ProfileActivity,com.rainbowshops:id/button_log_in,a33b32
-android.widget.EditText,,Password,.ui.activities.ActivityLogin,com.yelp.android:id/activity_login_editPassword,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_password,a33b32
-android.widget.EditText,,Email,.ui.activities.ActivityLogin,com.yelp.android:id/activity_login_editUsername,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,com.rainbowshops:id/text_username,a33b32
-android.widget.Button,,Log In,.ui.activities.ActivityLogin,com.yelp.android:id/activity_login_btnLogin,a35b32,android.widget.Button,,SIGN IN,.activity.LoginAndSignUpActivity,com.rainbowshops:id/button_sign_in,a33b32
-android.widget.TextView,,Sample Todo,.activity.MainActivity,com.woefe.shoppinglist:id/text_description,a25b22,android.widget.TextView,,Delete,.SimplyDoActivity,android:id/title,a24b22
-android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_search,a43b41,android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_search,a44b41
-android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,ru.mail.mailapp:id/search_text,a43b41,android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,com.my.mail:id/search_text,a44b41
-android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_search,a43b41,android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_search,a45b41
-android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,ru.mail.mailapp:id/search_text,a43b41,android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,park.outlook.sign.in.client:id/search_text,a45b41
-android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_search,a44b41,android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_search,a43b41
-android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,com.my.mail:id/search_text,a44b41,android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,ru.mail.mailapp:id/search_text,a43b41
-android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_search,a44b41,android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_search,a45b41
-android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,com.my.mail:id/search_text,a44b41,android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,park.outlook.sign.in.client:id/search_text,a45b41
-android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_search,a45b41,android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_search,a43b41
-android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,park.outlook.sign.in.client:id/search_text,a45b41,android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,ru.mail.mailapp:id/search_text,a43b41
-android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_search,a45b41,android.widget.TextView,Search,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_search,a44b41
-android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,park.outlook.sign.in.client:id/search_text,a45b41,android.widget.EditText,,Search Text,ru.mail.ui.SearchActivity,com.my.mail:id/search_text,a44b41
-android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_new,a43b42,android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_new,a44b42
-android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/edit_text_to,a43b42,android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/edit_text_to,a44b42
-android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/subject,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/subject,a44b42
-android.widget.EditText,,"
-
---
-Sent from Mail.Ru app for Android",ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/mailbox_create_new_body,a43b42,android.widget.EditText,,"
-
---
-Sent from myMail for Android",ru.mail.ui.writemail.WriteActivity,com.my.mail:id/mailbox_create_new_body,a44b42
-android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/toolbar_action_send,a43b42,android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/toolbar_action_send,a44b42
-android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_new,a44b42,android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_new,a43b42
-android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/edit_text_to,a44b42,android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/edit_text_to,a43b42
-android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/subject,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/subject,a43b42
-android.widget.EditText,,"
-
---
-Sent from myMail for Android",ru.mail.ui.writemail.WriteActivity,com.my.mail:id/mailbox_create_new_body,a44b42,android.widget.EditText,,"
-
---
-Sent from Mail.Ru app for Android",ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/mailbox_create_new_body,a43b42
-android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/toolbar_action_send,a44b42,android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/toolbar_action_send,a43b42
-android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_new,a45b42,android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_new,a43b42
-android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/edit_text_to,a45b42,android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/edit_text_to,a43b42
-android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/subject,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/subject,a43b42
-android.widget.EditText,,"
-
---
-Sent from Outlook Email App for Android",ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/mailbox_create_new_body,a45b42,android.widget.EditText,,"
-
---
-Sent from Mail.Ru app for Android",ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/mailbox_create_new_body,a43b42
-android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/toolbar_action_send,a45b42,android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/toolbar_action_send,a43b42
-android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,ru.mail.mailapp:id/toolbar_action_new,a43b42,android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_new,a45b42
-android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/edit_text_to,a43b42,android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/edit_text_to,a45b42
-android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/subject,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/subject,a45b42
-android.widget.EditText,,"
-
---
-Sent from Mail.Ru app for Android",ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/mailbox_create_new_body,a43b42,android.widget.EditText,,"
-
---
-Sent from Outlook Email App for Android",ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/mailbox_create_new_body,a45b42
-android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,ru.mail.mailapp:id/toolbar_action_send,a43b42,android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/toolbar_action_send,a45b42
-android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_new,a45b42,android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_new,a44b42
-android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/edit_text_to,a45b42,android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/edit_text_to,a44b42
-android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/subject,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/subject,a44b42
-android.widget.EditText,,"
-
---
-Sent from Outlook Email App for Android",ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/mailbox_create_new_body,a45b42,android.widget.EditText,,"
-
---
-Sent from myMail for Android",ru.mail.ui.writemail.WriteActivity,com.my.mail:id/mailbox_create_new_body,a44b42
-android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/toolbar_action_send,a45b42,android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/toolbar_action_send,a44b42
-android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,com.my.mail:id/toolbar_action_new,a44b42,android.widget.TextView,New Message,,ru.mail.ui.SlideStackActivity,park.outlook.sign.in.client:id/toolbar_action_new,a45b42
-android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/edit_text_to,a44b42,android.widget.EditText,,​,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/edit_text_to,a45b42
-android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/subject,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/subject,a45b42
-android.widget.EditText,,"
-
---
-Sent from myMail for Android",ru.mail.ui.writemail.WriteActivity,com.my.mail:id/mailbox_create_new_body,a44b42,android.widget.EditText,,"
-
---
-Sent from Outlook Email App for Android",ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/mailbox_create_new_body,a45b42
-android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,com.my.mail:id/toolbar_action_send,a44b42,android.widget.TextView,Send,,ru.mail.ui.writemail.WriteActivity,park.outlook.sign.in.client:id/toolbar_action_send,a45b42
-android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52,android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52
-android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52,android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52
-android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52,android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52
-android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52,android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52
-android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52,android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52
-android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52,android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52
-android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52
-android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52
-android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52,android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52
-android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52
-android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52,android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52
-android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52
-android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52,android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52
-android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52,android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52
-android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52,android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52
-android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52,android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52
-android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52,android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52
-android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52,android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52
-android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52
-android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52
-android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52,android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52
-android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52
-android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52,android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52
-android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52
-android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52,android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52
-android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52,android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52
-android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52,android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52
-android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52,android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52
-android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52,android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52
-android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52,android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52
-android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52
-android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52
-android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52,android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52
-android.widget.Button,,Calculate,.MainActivity,com.tleapps.simpletipcalculator:id/buttonCalculate,a53b52,android.widget.Button,,CALCULATE,.Calculator,com.zaidisoft.teninone:id/calculateBtn,a54b52
-android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52
-android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52,android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52
-android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52
-android.widget.Button,,Calculate,.MainActivity,com.tleapps.simpletipcalculator:id/buttonCalculate,a53b52,android.widget.Button,,CALCULATE,.MainActivity,com.jpstudiosonline.tipcalculator:id/btCalculate,a55b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52,android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52,android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52
-android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52,android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52,android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52,android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52
-android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52,android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52,android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52,android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52
-android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52,android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52
-android.widget.Button,,CALCULATE,.Calculator,com.zaidisoft.teninone:id/calculateBtn,a54b52,android.widget.Button,,Calculate,.MainActivity,com.tleapps.simpletipcalculator:id/buttonCalculate,a53b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52
-android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52,android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52
-android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52,android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52
-android.widget.Button,,CALCULATE,.Calculator,com.zaidisoft.teninone:id/calculateBtn,a54b52,android.widget.Button,,CALCULATE,.MainActivity,com.jpstudiosonline.tipcalculator:id/btCalculate,a55b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52,android.widget.EditText,,0,.Tip,anti.tip:id/bill,a51b52
-android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52,android.widget.EditText,,15,.Tip,anti.tip:id/percent,a51b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52,android.widget.EditText,,1,.Tip,anti.tip:id/people,a51b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52,android.widget.EditText,,,.MainActivity,com.appsbyvir.tipcalculator:id/billEditText,a52b52
-android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52,android.widget.EditText,,15.0,.MainActivity,com.appsbyvir.tipcalculator:id/tipEditText,a52b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52,android.widget.EditText,,# of ways,.MainActivity,com.appsbyvir.tipcalculator:id/splitBillEditText,a52b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52,android.widget.EditText,,100.00,.MainActivity,com.tleapps.simpletipcalculator:id/editTextBill,a53b52
-android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52,android.widget.EditText,,15,.MainActivity,com.tleapps.simpletipcalculator:id/editTextTip,a53b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52,android.widget.EditText,,1,.MainActivity,com.tleapps.simpletipcalculator:id/editTextSplit,a53b52
-android.widget.Button,,CALCULATE,.MainActivity,com.jpstudiosonline.tipcalculator:id/btCalculate,a55b52,android.widget.Button,,Calculate,.MainActivity,com.tleapps.simpletipcalculator:id/buttonCalculate,a53b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etBillTotal,a55b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/billAmountET,a54b52
-android.widget.EditText,,15,.MainActivity,com.jpstudiosonline.tipcalculator:id/etTipAmount,a55b52,android.widget.EditText,,0,.Calculator,com.zaidisoft.teninone:id/tipPercentET,a54b52
-android.widget.EditText,,1,.MainActivity,com.jpstudiosonline.tipcalculator:id/etPerson,a55b52,android.widget.EditText,,1,.Calculator,com.zaidisoft.teninone:id/guestNumberET,a54b52
-android.widget.Button,,CALCULATE,.MainActivity,com.jpstudiosonline.tipcalculator:id/btCalculate,a55b52,android.widget.Button,,CALCULATE,.Calculator,com.zaidisoft.teninone:id/calculateBtn,a54b52
-android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_new_expense,ExpenseTracker1,android.widget.ImageButton,,,.MainActivity,luankevinferreira.expenses:id/fab,ExpenseTracker1ExpenseTracker2
-android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/description_edittext,ExpenseTracker1,android.widget.EditText,,Add a description,.ExpenseActivity,luankevinferreira.expenses:id/expense_description,ExpenseTracker1ExpenseTracker2
-android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/amount_edittext,ExpenseTracker1,android.widget.EditText,,0.00,.ExpenseActivity,luankevinferreira.expenses:id/expense_value,ExpenseTracker1ExpenseTracker2
-android.widget.ImageButton,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/save_expense_fab,ExpenseTracker1,android.widget.Button,,SAVE,.ExpenseActivity,luankevinferreira.expenses:id/save_expense,ExpenseTracker1ExpenseTracker2
-android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_new_expense,ExpenseTracker1,android.widget.ImageButton,,,.MainActivity,com.kvannli .simonkvannli.dailybudget:id/imageButton2,ExpenseTracker1ExpenseTracker3
-android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/description_edittext,ExpenseTracker1,android.widget.EditText,,Note (Optional),.InputActivity,com.kvannli.simonkvannli.dailybudget:id/input_note,ExpenseTracker1ExpenseTracker3
-android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/amount_edittext,ExpenseTracker1,android.widget.EditText,,Amount,.InputActivity,com.kvannli.simonkvannli.dailybudget:id/input_amount,ExpenseTracker1ExpenseTracker3
-android.widget.ImageButton,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/save_expense_fab,ExpenseTracker1,android.widget.Button,,DONE,.InputActivity,com.kvannli.simonkvannli.dailybudget:id/doneButton,ExpenseTracker1ExpenseTracker3
-android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_new_expense,ExpenseTracker1,android.widget.Button,,ADD EXPENSE,.activity.record.MainActivity,com.blogspot.e_kanivets.moneytracker:id/btn_add_expense,ExpenseTracker1ExpenseTracker4
-android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/description_edittext,ExpenseTracker1,android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_category,ExpenseTracker1ExpenseTracker4
-android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/amount_edittext,ExpenseTracker1,android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_price,ExpenseTracker1ExpenseTracker4
-android.widget.ImageButton,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/save_expense_fab,ExpenseTracker1,android.widget.TextView,Add,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/action_done,ExpenseTracker1ExpenseTracker4
-android.widget.ImageButton,,,.MainActivity,luankevinferreira.expenses:id/fab,ExpenseTracker2,android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_expand_menu_button,ExpenseTracker2ExpenseTracker1
-android.widget.EditText,,0.00,.ExpenseActivity,luankevinferreira.expenses:id/expense_value,ExpenseTracker2,android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/amount_edittext,ExpenseTracker2ExpenseTracker1
-android.widget.EditText,,Add a description,.ExpenseActivity,luankevinferreira.expenses:id/expense_description,ExpenseTracker2,android.widget.EditText,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/description_edittext,ExpenseTracker2ExpenseTracker1
-android.widget.Button,,06-14-2021,.ExpenseActivity,luankevinferreira.expenses:id/date_picker,ExpenseTracker2,android.widget.Button,,JUN 15 2021,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/date_button,ExpenseTracker2ExpenseTracker1
-android.widget.Button,,OK,.ExpenseActivity,android:id/button1,ExpenseTracker2,android.widget.Button,,OK,.view.ExpenseEditActivity,android:id/button1,ExpenseTracker2ExpenseTracker1
-android.widget.Button,,SAVE,.ExpenseActivity,luankevinferreira.expenses:id/save_expense,ExpenseTracker2,android.widget.ImageButton,,,.view.ExpenseEditActivity,com.benoitletondor.easybudgetapp:id/save_expense_fab,ExpenseTracker2ExpenseTracker1
-android.widget.ImageButton,,,.MainActivity,luankevinferreira.expenses:id/fab,ExpenseTracker2,android.widget.ImageButton,,,.MainActivity,com.kvannli.simonkvannli.dailybudget:id/imageButton2,ExpenseTracker2ExpenseTracker3
-android.widget.EditText,,0.00,.ExpenseActivity,luankevinferreira.expenses:id/expense_value,ExpenseTracker2,android.widget.EditText,,Amount,.InputActivity,com.kvannli.simonkvannli.dailybudget:id/input_amount,ExpenseTracker2ExpenseTracker3
-android.widget.EditText,,Add a description,.ExpenseActivity,luankevinferreira.expenses:id/expense_description,ExpenseTracker2,android.widget.EditText,,Note (Optional),.InputActivity,com.kvannli.simonkvannli.dailybudget:id/input_note,ExpenseTracker2ExpenseTracker3
-android.widget.Button,,SAVE,.ExpenseActivity,luankevinferreira.expenses:id/save_expense,ExpenseTracker2,android.widget.Button,,DONE,.InputActivity,com.kvannli.simonkvannli.dailybudget:id/doneButton,ExpenseTracker2ExpenseTracker3
-android.widget.ImageButton,,,.MainActivity,luankevinferreira.expenses:id/fab,ExpenseTracker2,android.widget.Button,,ADD EXPENSE,.activity.record.MainActivity,com.blogspot.e_kanivets.moneytracker:id/btn_add_expense,ExpenseTracker2ExpenseTracker4
-android.widget.EditText,,0.00,.ExpenseActivity,luankevinferreira.expenses:id/expense_value,ExpenseTracker2,android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_price,ExpenseTracker2ExpenseTracker4
-android.widget.EditText,,Add a description,.ExpenseActivity,luankevinferreira.expenses:id/expense_description,ExpenseTracker2,android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_category,ExpenseTracker2ExpenseTracker4
-android.widget.Button,,06-14-2021,.ExpenseActivity,luankevinferreira.expenses:id/date_picker,ExpenseTracker2,android.widget.TextView,,2021-06-14,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/tv_date,ExpenseTracker2ExpenseTracker4
-android.widget.Button,,OK,.ExpenseActivity,android:id/button1,ExpenseTracker2,android.widget.Button,,OK,.activity.record.AddRecordActivity,android:id/button1,ExpenseTracker2ExpenseTracker4
-android.widget.Button,,SAVE,.ExpenseActivity,luankevinferreira.expenses:id/save_expense,ExpenseTracker2,android.widget.TextView,Add,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/action_done,ExpenseTracker2ExpenseTracker4
-android.widget.ImageButton,Open navigation drawer,,.MainActivity,,ExpenseTracker3,android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_expand_menu_button,ExpenseTracker3ExpenseTracker1
-android.widget.TextView,,INCOME,.MainActivity,android:id/text1,ExpenseTracker3,android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_new_recurring_expense,ExpenseTracker3ExpenseTracker1
-android.widget.EditText,,Name,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText,ExpenseTracker3,android.widget.EditText,,,.view.RecurringExpenseEditActivity,com.benoitletondor.easybudgetapp:id/description_edittext,ExpenseTracker3ExpenseTracker1
-android.widget.EditText,,Amount,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText2,ExpenseTracker3,android.widget.EditText,,,.view.RecurringExpenseEditActivity,com.benoitletondor.easybudgetapp:id/amount_edittext,ExpenseTracker3ExpenseTracker1
-android.widget.Button,,ADD INCOME,.income_activity,com.kvannli.simonkvannli.dailybudget:id/button2,ExpenseTracker3,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,com.benoitletondor.easybudgetapp:id/save_expense_fab,ExpenseTracker3ExpenseTracker1
-android.widget.TextView,,INCOME,.MainActivity,android:id/text1,ExpenseTracker3,android.widget.ImageButton,,,.MainActivity,luankevinferreira.expenses:id/fab,ExpenseTracker3ExpenseTracker2
-android.widget.EditText,,Name,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText,ExpenseTracker3,android.widget.EditText,,Add a description,.ExpenseActivity,luankevinferreira.expenses:id/expense_description,ExpenseTracker3ExpenseTracker2
-android.widget.EditText,,Amount,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText2,ExpenseTracker3,android.widget.EditText,,0.00,.ExpenseActivity,luankevinferreira.expenses:id/expense_value,ExpenseTracker3ExpenseTracker2
-android.widget.Button,,ADD INCOME,.income_activity,com.kvannli.simonkvannli.dailybudget:id/button2,ExpenseTracker3,android.widget.Button,,SAVE,.ExpenseActivity,luankevinferreira.expenses:id/save_expense,ExpenseTracker3ExpenseTracker2
-android.widget.TextView,,INCOME,.MainActivity,android:id/text1,ExpenseTracker3,android.widget.Button,,ADD INCOME,.activity.record.MainActivity,com.blogspot.e_kanivets.moneytracker:id/btn_add_income,ExpenseTracker3ExpenseTracker4
-android.widget.EditText,,Name,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_category,ExpenseTracker3ExpenseTracker4
-android.widget.EditText,,Amount,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText2,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_price,ExpenseTracker3ExpenseTracker4
-android.widget.Button,,ADD INCOME,.income_activity,com.kvannli.simonkvannli.dailybudget:id/button2,ExpenseTracker3,android.widget.TextView,Add,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/action_done,ExpenseTracker3ExpenseTracker4
-android.widget.Button,,ADD INCOME,.activity.record.MainActivity,com.blogspot.e_kanivets.moneytracker:id/btn_add_income,ExpenseTracker4,android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_expand_menu_button,ExpenseTracker4ExpenseTracker1
-android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_price,ExpenseTracker4,android.widget.ImageButton,,,.view.MainActivity,com.benoitletondor.easybudgetapp:id/fab_new_recurring_expense,ExpenseTracker4ExpenseTracker1
-android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_title,ExpenseTracker4,android.widget.EditText,,,.view.RecurringExpenseEditActivity,com.benoitletondor.easybudgetapp:id/amount_edittext,ExpenseTracker4ExpenseTracker1
-android.widget.TextView,Add,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/action_done,ExpenseTracker4,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,com.benoitletondor.easybudgetapp:id/save_expense_fab,ExpenseTracker4ExpenseTracker1
-android.widget.Button,,ADD INCOME,.activity.record.MainActivity,com.blogspot.e_kanivets.moneytracker:id/btn_add_income,ExpenseTracker4,android.widget.ImageButton,,,.MainActivity,luankevinferreira.expenses:id/fab,ExpenseTracker4ExpenseTracker2
-android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_price,ExpenseTracker4,android.widget.EditText,,0.00,.ExpenseActivity,luankevinferreira.expenses:id/expense_value,ExpenseTracker4ExpenseTracker2
-android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_title,ExpenseTracker4,android.widget.EditText,,Add a description,.ExpenseActivity,luankevinferreira.expenses:id/expense_description,ExpenseTracker4ExpenseTracker2
-android.widget.TextView,Add,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/action_done,ExpenseTracker4,android.widget.Button,,SAVE,.ExpenseActivity,luankevinferreira.expenses:id/save_expense,ExpenseTracker4ExpenseTracker2
-android.widget.Button,,ADD INCOME,.activity.record.MainActivity,com.blogspot.e_kanivets.moneytracker:id/btn_add_income,ExpenseTracker4,android.widget.TextView,,INCOME,.MainActivity,android:id/text1,ExpenseTracker4ExpenseTracker3
-android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_price,ExpenseTracker4,android.widget.EditText,,Amount,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText2,ExpenseTracker4ExpenseTracker3
-android.widget.EditText,,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/et_title,ExpenseTracker4,android.widget.EditText,,Name,.income_activity,com.kvannli.simonkvannli.dailybudget:id/editText,ExpenseTracker4ExpenseTracker3
-android.widget.TextView,Add,,.activity.record.AddRecordActivity,com.blogspot.e_kanivets.moneytracker:id/action_done,ExpenseTracker4,android.widget.Button,,ADD INCOME,.income_activity,com.kvannli.simonkvannli.dailybudget:id/button2,ExpenseTracker4ExpenseTracker3
-android.widget.ImageButton,New note,,.MainActivity,com.moonpi.swiftnotes:id/newNote,NoteTaking2,android.widget.ImageButton,,,.MainActivity,me.writeily:id/create_note,NoteTaking2NoteTaking3
-android.widget.EditText,,Title,.EditActivity,com.moonpi.swiftnotes:id/titleEdit,NoteTaking2,android.widget.EditText,,Title,.NoteActivity,me.writeily:id/edit_note_title,NoteTaking2NoteTaking3
-android.widget.EditText,,Note,.EditActivity,com.moonpi.swiftnotes:id/bodyEdit,NoteTaking2,android.widget.EditText,,,.NoteActivity,me.writeily:id/note_content,NoteTaking2NoteTaking3
-android.widget.ImageButton,,,.EditActivity,,NoteTaking2,android.widget.ImageButton,Navigate up,,.NoteActivity,,NoteTaking2NoteTaking3
-android.widget.ImageButton,New note,,.MainActivity,com.moonpi.swiftnotes:id/newNote,NoteTaking2,android.widget.ImageView,,,.MainActivity,,NoteTaking2NoteTaking4
-android.widget.EditText,,Title,.EditActivity,com.moonpi.swiftnotes:id/titleEdit,NoteTaking2,android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_edittext_title,NoteTaking2NoteTaking4
-android.widget.EditText,,Note,.EditActivity,com.moonpi.swiftnotes:id/bodyEdit,NoteTaking2,android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_note_editor,NoteTaking2NoteTaking4
-android.widget.ImageButton,,,.MainActivity,me.writeily:id/create_note,NoteTaking3,android.widget.ImageButton,New note,,.MainActivity,com.moonpi.swiftnotes:id/newNote,NoteTaking3NoteTaking2
-android.widget.EditText,,Title,.NoteActivity,me.writeily:id/edit_note_title,NoteTaking3,android.widget.EditText,,Title,.EditActivity,com.moonpi.swiftnotes:id/titleEdit,NoteTaking3NoteTaking2
-android.widget.EditText,,,.NoteActivity,me.writeily:id/note_content,NoteTaking3,android.widget.EditText,,Note,.EditActivity,com.moonpi.swiftnotes:id/bodyEdit,NoteTaking3NoteTaking2
-android.widget.ImageButton,Navigate up,,.PreviewActivity,,NoteTaking3,android.widget.ImageButton,,,.EditActivity,,NoteTaking3NoteTaking2
-android.widget.ImageButton,,,.MainActivity,me.writeily:id/create_note,NoteTaking3,android.widget.ImageView,,,.MainActivity,,NoteTaking3NoteTaking4
-android.widget.EditText,,Title,.NoteActivity,me.writeily:id/edit_note_title,NoteTaking3,android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_edittext_title,NoteTaking3NoteTaking4
-android.widget.EditText,,,.NoteActivity,me.writeily:id/note_content,NoteTaking3,android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_note_editor,NoteTaking3NoteTaking4
-android.widget.ImageView,,,.MainActivity,,NoteTaking4,android.widget.ImageButton,New note,,.MainActivity,com.moonpi.swiftnotes:id/newNote,NoteTaking4NoteTaking2
-android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_edittext_title,NoteTaking4,android.widget.EditText,,Title,.EditActivity,com.moonpi.swiftnotes:id/titleEdit,NoteTaking4NoteTaking2
-android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_note_editor,NoteTaking4,android.widget.EditText,,Note,.EditActivity,com.moonpi.swiftnotes:id/bodyEdit,NoteTaking4NoteTaking2
-android.widget.ImageView,,,.MainActivity,,NoteTaking4,android.widget.ImageButton,,,.MainActivity,me.writeily:id/create_note,NoteTaking4NoteTaking3
-android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_edittext_title,NoteTaking4,android.widget.EditText,,Title,.NoteActivity,me.writeily:id/edit_note_title,NoteTaking4NoteTaking3
-android.widget.EditText,,,.app.notes.EditNoteActivity,chan.android.app.pocketnote:id/editor_$_note_editor,NoteTaking4,android.widget.EditText,,,.NoteActivity,me.writeily:id/note_content,NoteTaking4NoteTaking3
-android.widget.ImageButton,,,.MainActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList1,android.widget.TextView,New list,,br.com.vansact.MainApp,br.com.activity:id/action_add,ShoppingList1ShoppingList2
-android.widget.EditText,,Shopping list name,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListNameEditText,ShoppingList1,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList1ShoppingList2
-android.widget.EditText,,Description,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListDescriptionEditText,ShoppingList1,android.widget.EditText,,Add an item,br.com.vansact.AddItemShoppingList,br.com.activity:id/edDescription,ShoppingList1ShoppingList2
-android.widget.Button,,SAVE,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList1,android.widget.TextView,Add item,,br.com.vansact.AddItemShoppingList,br.com.activity:id/action_done,ShoppingList1ShoppingList2
-android.widget.ImageButton,,,.MainActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList1,android.widget.ImageButton,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_list,ShoppingList1ShoppingList3
-android.widget.EditText,,Shopping list name,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListNameEditText,ShoppingList1,android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_name,ShoppingList1ShoppingList3
-android.widget.EditText,,Description,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListDescriptionEditText,ShoppingList1,android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_notes,ShoppingList1ShoppingList3
-android.widget.Button,,SAVE,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList1,android.widget.Button,,OKAY,.ui.main.MainActivity,android:id/button1,ShoppingList1ShoppingList3
-android.widget.ImageButton,,,.MainActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList1,android.widget.TextView,,New list,.ShoppingActivity,android:id/title,ShoppingList1ShoppingList4
-android.widget.EditText,,Shopping list name,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListNameEditText,ShoppingList1,android.widget.EditText,,"e.g. wishlist, family list",.ShoppingActivity,org.openintents.shopping:id/edittext,ShoppingList1ShoppingList4
-android.widget.Button,,SAVE,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList1,android.widget.Button,,OK,.ShoppingActivity,android:id/button1,ShoppingList1ShoppingList4
-android.widget.TextView,New list,,br.com.vansact.MainApp,br.com.activity:id/action_add,ShoppingList2,android.widget.ImageButton,,,.MainActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList2ShoppingList1
-android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,Shopping list name,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListNameEditText,ShoppingList2ShoppingList1
-android.widget.Button,,OK,br.com.vansact.MainApp,android:id/button1,ShoppingList2,android.widget.Button,,SAVE,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList2ShoppingList1
-android.widget.TextView,New list,,br.com.vansact.MainApp,br.com.activity:id/action_add,ShoppingList2,android.widget.ImageButton,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_list,ShoppingList2ShoppingList3
-android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_name,ShoppingList2ShoppingList3
-android.widget.Button,,OK,br.com.vansact.MainApp,android:id/button1,ShoppingList2,android.widget.Button,,OKAY,.ui.main.MainActivity,android:id/button1,ShoppingList2ShoppingList3
-android.widget.TextView,New list,,br.com.vansact.MainApp,br.com.activity:id/action_add,ShoppingList2,android.widget.TextView,,New list,.ShoppingActivity,android:id/title,ShoppingList2ShoppingList4
-android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,"e.g. wishlist, family list",.ShoppingActivity,org.openintents.shopping:id/edittext,ShoppingList2ShoppingList4
-android.widget.Button,,OK,br.com.vansact.MainApp,android:id/button1,ShoppingList2,android.widget.Button,,OK,.ShoppingActivity,android:id/button1,ShoppingList2ShoppingList4
-android.widget.ImageButton,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_list,ShoppingList3,android.widget.ImageButton,,,.MainActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList3ShoppingList1
-android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_name,ShoppingList3,android.widget.EditText,,Shopping list name,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListNameEditText,ShoppingList3ShoppingList1
-android.widget.Button,,OKAY,.ui.main.MainActivity,android:id/button1,ShoppingList3,android.widget.Button,,SAVE,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList3ShoppingList1
-android.widget.ImageButton,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_list,ShoppingList3,android.widget.TextView,New list,,br.com.vansact.MainApp,br.com.activity:id/action_add,ShoppingList3ShoppingList2
-android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_name,ShoppingList3,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList3ShoppingList2
-android.widget.Button,,OKAY,.ui.main.MainActivity,android:id/button1,ShoppingList3,android.widget.Button,,OK,br.com.vansact.MainApp,android:id/button1,ShoppingList3ShoppingList2
-android.widget.ImageButton,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_list,ShoppingList3,android.widget.TextView,,New list,.ShoppingActivity,android:id/title,ShoppingList3ShoppingList4
-android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_name,ShoppingList3,android.widget.EditText,,"e.g. wishlist, family list",.ShoppingActivity,org.openintents.shopping:id/edittext,ShoppingList3ShoppingList4
-android.widget.Button,,OKAY,.ui.main.MainActivity,android:id/button1,ShoppingList3,android.widget.Button,,OK,.ShoppingActivity,android:id/button1,ShoppingList3ShoppingList4
-android.widget.TextView,,New list,.ShoppingActivity,android:id/title,ShoppingList4,android.widget.ImageButton,,,.MainActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList4ShoppingList1
-android.widget.EditText,,"e.g. wishlist, family list",.ShoppingActivity,org.openintents.shopping:id/edittext,ShoppingList4,android.widget.EditText,,Shopping list name,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/shoppingListNameEditText,ShoppingList4ShoppingList1
-android.widget.Button,,OK,.ShoppingActivity,android:id/button1,ShoppingList4,android.widget.Button,,SAVE,.ShoppingListEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList4ShoppingList1
-android.widget.Button,,ADD,.ShoppingActivity,org.openintents.shopping:id/button_add_item,ShoppingList4,android.widget.LinearLayout,,,.MainActivity,,ShoppingList4ShoppingList1
-android.widget.Button,,OK,.ui.PickItemsActivity,org.openintents.shopping:id/button1,ShoppingList4,android.widget.ImageButton,,,.ShoppingListViewActivity,pl.com.andrzejgrzyb.shoppinglist:id/fab,ShoppingList4ShoppingList1
-android.widget.Spinner,,,.ShoppingActivity,org.openintents.shopping:id/spinner_listfilter,ShoppingList4,android.widget.EditText,,Item name,.ItemEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/item_name_edit_text,ShoppingList4ShoppingList1
-android.widget.CheckedTextView,,list1,.ShoppingActivity,android:id/text1,ShoppingList4,android.widget.Button,,SAVE,.ItemEditActivity,pl.com.andrzejgrzyb.shoppinglist:id/addShoppingListButton,ShoppingList4ShoppingList1
-android.widget.TextView,,New list,.ShoppingActivity,android:id/title,ShoppingList4,android.widget.TextView,New list,,br.com.vansact.MainApp,br.com.activity:id/action_add,ShoppingList4ShoppingList2
-android.widget.EditText,,"e.g. wishlist, family list",.ShoppingActivity,org.openintents.shopping:id/edittext,ShoppingList4,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList4ShoppingList2
-android.widget.Button,,OK,.ShoppingActivity,android:id/button1,ShoppingList4,android.widget.Button,,OK,br.com.vansact.MainApp,android:id/button1,ShoppingList4ShoppingList2
-android.widget.EditText,,,.ShoppingActivity,org.openintents.shopping:id/autocomplete_add_item,ShoppingList4,android.widget.EditText,,Add an item,br.com.vansact.AddItemShoppingList,br.com.activity:id/edDescription,ShoppingList4ShoppingList2
-android.widget.Button,,ADD,.ShoppingActivity,org.openintents.shopping:id/button_add_item,ShoppingList4,android.widget.TextView,Add item,,br.com.vansact.AddItemShoppingList,br.com.activity:id/action_done,ShoppingList4ShoppingList2
-android.widget.TextView,,New list,.ShoppingActivity,android:id/title,ShoppingList4,android.widget.ImageButton,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_list,ShoppingList4ShoppingList3
-android.widget.EditText,,"e.g. wishlist, family list",.ShoppingActivity,org.openintents.shopping:id/edittext,ShoppingList4,android.widget.EditText,,,.ui.main.MainActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/list_name,ShoppingList4ShoppingList3
-android.widget.Button,,OK,.ShoppingActivity,android:id/button1,ShoppingList4,android.widget.Button,,OKAY,.ui.main.MainActivity,android:id/button1,ShoppingList4ShoppingList3
-android.widget.Button,,ADD,.ShoppingActivity,org.openintents.shopping:id/button_add_item,ShoppingList4,android.widget.ImageButton,,,.ui.products.ProductsActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/fab_new_product,ShoppingList4ShoppingList3
-android.widget.EditText,,,.ShoppingActivity,org.openintents.shopping:id/autocomplete_add_item,ShoppingList4,android.widget.EditText,,,.ui.products.ProductsActivity,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist:id/product_name,ShoppingList4ShoppingList3
-android.widget.Button,,ADD,.ShoppingActivity,org.openintents.shopping:id/button_add_item,ShoppingList4,android.widget.Button,,OKAY,.ui.products.ProductsActivity,android:id/button1,ShoppingList4ShoppingList3
+android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search,.MainActivity,search,a11b12
+android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search,.MainActivity,search,a11b12
+android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12
+android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12,android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
+android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
+android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12,android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12
+android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
+android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
+android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12
+android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,search,.MainActivity,search,a11b12
+android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,search,.MainActivity,search,a11b12
+android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12
+android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.widget.ImageButton,,,.MainActivity,add item fab,a21b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
+android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.ImageButton,,,.MainActivity,add item fab,a21b22,android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22
+android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
+android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
+android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+android.widget.ImageButton,,,.MainActivity,add item fab,a21b22,android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22
+android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
+android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.MainActivity,add item fab,a21b22
+android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22
+android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
+android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
+android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22
+android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
+android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22,android.widget.ImageButton,,,.MainActivity,add item fab,a21b22
+android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
+android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
+android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
+android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22
+android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
+android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
+android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
+android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22,android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22
+android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
+android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
+android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
+android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
+android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
+android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22
+android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
+android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
+android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
+android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
+android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
+android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.ImageButton,,,.MainActivity,add item fab,a21b22
+android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
+android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
+android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22
+android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
+android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
+android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
+android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31,android.widget.Button,,sign,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,sign button,a35b31
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text email,a33b31,android.widget.EditText,,email,.ui.activities.ActivityCreateAccount,email address,a35b31
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b31,android.widget.EditText,,password,.ui.activities.ActivityCreateAccount,password,a35b31
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text last name,a33b31,android.widget.EditText,,last name,.ui.activities.ActivityCreateAccount,last name,a35b31
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text first name,a33b31,android.widget.EditText,,first name,.ui.activities.ActivityCreateAccount,first name,a35b31
+android.widget.Button,,create account,.activity.LoginAndSignUpActivity,button sign,a33b31,android.widget.Button,,next,.ui.activities.ActivityCreateAccount,signup next button,a35b31
+android.widget.Button,,sign,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,sign button,a35b31,android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31
+android.widget.EditText,,email,.ui.activities.ActivityCreateAccount,email address,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text email,a33b31
+android.widget.EditText,,password,.ui.activities.ActivityCreateAccount,password,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b31
+android.widget.EditText,,last name,.ui.activities.ActivityCreateAccount,last name,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text last name,a33b31
+android.widget.EditText,,first name,.ui.activities.ActivityCreateAccount,first name,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text first name,a33b31
+android.widget.Button,,next,.ui.activities.ActivityCreateAccount,signup next button,a35b31,android.widget.Button,,create account,.activity.LoginAndSignUpActivity,button sign,a33b31
+android.widget.Button,,log,.activity.ProfileActivity,button log,a33b32,android.widget.Button,,log,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,log button,a35b32
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b32,android.widget.EditText,,password,.ui.activities.ActivityLogin,activity login edit password,a35b32
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text username,a33b32,android.widget.EditText,,email,.ui.activities.ActivityLogin,activity login edit username,a35b32
+android.widget.Button,,sign,.activity.LoginAndSignUpActivity,button sign,a33b32,android.widget.Button,,log,.ui.activities.ActivityLogin,activity login btn,a35b32
+android.widget.Button,,log,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,log button,a35b32,android.widget.Button,,log,.activity.ProfileActivity,button log,a33b32
+android.widget.EditText,,password,.ui.activities.ActivityLogin,activity login edit password,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b32
+android.widget.EditText,,email,.ui.activities.ActivityLogin,activity login edit username,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text username,a33b32
+android.widget.Button,,log,.ui.activities.ActivityLogin,activity login btn,a35b32,android.widget.Button,,sign,.activity.LoginAndSignUpActivity,button sign,a33b32
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41
+android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41
+android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41
+android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41
+android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41
+android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41
+android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42
+android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42,android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42
+android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42
+android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42
+android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42,android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42
+android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42
+android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42
+android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42,android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42
+android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42
+android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42
+android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42,android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42
+android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42
+android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42
+android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42,android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42
+android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42
+android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42
+android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42,android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42
+android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42
+android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
+android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
+android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
+android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
+android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
+android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
+android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
+android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
+android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
+android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
+android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,,.MainActivity,et person,a55b52
+android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.Tip,bill,a51b52
+android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.Tip,percent,a51b52
+android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
+android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
+android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
+android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
+android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
+android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
+android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
+android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
+android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.MainActivity,et person,a55b52
+android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.Tip,bill,a51b52
+android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.Tip,percent,a51b52
+android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
+android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
+android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
+android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
+android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
+android.widget.Button,,calculate,.MainActivity,button calculate,a53b52,android.widget.Button,,calculate,.Calculator,calculate btn,a54b52
+android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
+android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
+android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,,.MainActivity,et person,a55b52
+android.widget.Button,,calculate,.MainActivity,button calculate,a53b52,android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52
+android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.Tip,bill,a51b52
+android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.Tip,percent,a51b52
+android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
+android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
+android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
+android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
+android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
+android.widget.Button,,calculate,.Calculator,calculate btn,a54b52,android.widget.Button,,calculate,.MainActivity,button calculate,a53b52
+android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
+android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
+android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,,.MainActivity,et person,a55b52
+android.widget.Button,,calculate,.Calculator,calculate btn,a54b52,android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52
+android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.Tip,bill,a51b52
+android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.Tip,percent,a51b52
+android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
+android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
+android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
+android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
+android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
+android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52,android.widget.Button,,calculate,.MainActivity,button calculate,a53b52
+android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
+android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
+android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
+android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52,android.widget.Button,,calculate,.Calculator,calculate btn,a54b52
+android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1,android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2
+android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1,android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2
+android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
+android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
+android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1,android.widget.ImageButton,,,.MainActivity,image button,ExpenseTracker3
+android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1,android.widget.EditText,,note optional,.InputActivity,input note,ExpenseTracker3
+android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1,android.widget.EditText,,amount,.InputActivity,input amount,ExpenseTracker3
+android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1,android.widget.Button,,do,.InputActivity,do button,ExpenseTracker3
+android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1,android.widget.Button,,add expense,.activity.record.MainActivity,btn add expense,ExpenseTracker4
+android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1,android.widget.EditText,,,.activity.record.AddRecordActivity,et category,ExpenseTracker4
+android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
+android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.ImageButton,,,.view.MainActivity,fab expand menu button,ExpenseTracker1
+android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2,android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1
+android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2,android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1
+android.widget.Button,,,.ExpenseActivity,date picker,ExpenseTracker2,android.widget.Button,,jun,.view.ExpenseEditActivity,date button,ExpenseTracker1
+android.widget.Button,,ok,.ExpenseActivity,button,ExpenseTracker2,android.widget.Button,,ok,.view.ExpenseEditActivity,button,ExpenseTracker1
+android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2,android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.ImageButton,,,.MainActivity,image button,ExpenseTracker3
+android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2,android.widget.EditText,,amount,.InputActivity,input amount,ExpenseTracker3
+android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2,android.widget.EditText,,note optional,.InputActivity,input note,ExpenseTracker3
+android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2,android.widget.Button,,do,.InputActivity,do button,ExpenseTracker3
+android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.Button,,add expense,.activity.record.MainActivity,btn add expense,ExpenseTracker4
+android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
+android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2,android.widget.EditText,,,.activity.record.AddRecordActivity,et category,ExpenseTracker4
+android.widget.Button,,,.ExpenseActivity,date picker,ExpenseTracker2,android.widget.TextView,,,.activity.record.AddRecordActivity,tv date,ExpenseTracker4
+android.widget.Button,,ok,.ExpenseActivity,button,ExpenseTracker2,android.widget.Button,,ok,.activity.record.AddRecordActivity,button,ExpenseTracker4
+android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.ImageButton,open navigation drawer,,.MainActivity,,ExpenseTracker3,android.widget.ImageButton,,,.view.MainActivity,fab expand menu button,ExpenseTracker1
+android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.ImageButton,,,.view.MainActivity,fab new recur expense,ExpenseTracker1
+android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.view.RecurringExpenseEditActivity,description edittext,ExpenseTracker1
+android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.view.RecurringExpenseEditActivity,amount edittext,ExpenseTracker1
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2
+android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2
+android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
+android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4
+android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,et category,ExpenseTracker4
+android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4,android.widget.ImageButton,,,.view.MainActivity,fab expand menu button,ExpenseTracker1
+android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.ImageButton,,,.view.MainActivity,fab new recur expense,ExpenseTracker1
+android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,,.view.RecurringExpenseEditActivity,amount edittext,ExpenseTracker1
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4,android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2
+android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
+android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
+android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4,android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3
+android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3
+android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,add income,.income_activity,button,ExpenseTracker3
+android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2,android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3
+android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2,android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3
+android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2,android.widget.EditText,,,.NoteActivity,note content,NoteTaking3
+android.widget.ImageButton,,,.EditActivity,,NoteTaking2,android.widget.ImageButton,navigate,,.NoteActivity,,NoteTaking3
+android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2,android.widget.ImageView,,,.MainActivity,,NoteTaking4
+android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2,android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4
+android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2,android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4
+android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3,android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2
+android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3,android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2
+android.widget.EditText,,,.NoteActivity,note content,NoteTaking3,android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2
+android.widget.ImageButton,navigate,,.PreviewActivity,,NoteTaking3,android.widget.ImageButton,,,.EditActivity,,NoteTaking2
+android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3,android.widget.ImageView,,,.MainActivity,,NoteTaking4
+android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3,android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4
+android.widget.EditText,,,.NoteActivity,note content,NoteTaking3,android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4
+android.widget.ImageView,,,.MainActivity,,NoteTaking4,android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2
+android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4,android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2
+android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4,android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2
+android.widget.ImageView,,,.MainActivity,,NoteTaking4,android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3
+android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4,android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3
+android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4,android.widget.EditText,,,.NoteActivity,note content,NoteTaking3
+android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2
+android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2
+android.widget.EditText,,description,.ShoppingListEditActivity,shopping list description edit text,ShoppingList1,android.widget.EditText,,add item,br.com.vansact.AddItemShoppingList,ed description,ShoppingList2
+android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.TextView,add item,,br.com.vansact.AddItemShoppingList,action do,ShoppingList2
+android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3
+android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1,android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3
+android.widget.EditText,,description,.ShoppingListEditActivity,shopping list description edit text,ShoppingList1,android.widget.EditText,,,.ui.main.MainActivity,list note,ShoppingList3
+android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3
+android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4
+android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1,android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4
+android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4
+android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2,android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1
+android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1
+android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2,android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1
+android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2,android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3
+android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3
+android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2,android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3
+android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2,android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4
+android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4
+android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2,android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4
+android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3,android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1
+android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3,android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1
+android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3,android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1
+android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3,android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2
+android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2
+android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3,android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2
+android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3,android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4
+android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3,android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4
+android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3,android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4
+android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4,android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1
+android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4,android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1
+android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4,android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1
+android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.LinearLayout,,,.MainActivity,,ShoppingList1
+android.widget.Button,,ok,.ui.PickItemsActivity,button,ShoppingList4,android.widget.ImageButton,,,.ShoppingListViewActivity,fab,ShoppingList1
+android.widget.Spinner,,,.ShoppingActivity,spinner listfilter,ShoppingList4,android.widget.EditText,,item name,.ItemEditActivity,item name edit text,ShoppingList1
+android.widget.CheckedTextView,,list,.ShoppingActivity,text,ShoppingList4,android.widget.Button,,save,.ItemEditActivity,add shopping list button,ShoppingList1
+android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4,android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2
+android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2
+android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4,android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2
+android.widget.EditText,,,.ShoppingActivity,autocomplete add item,ShoppingList4,android.widget.EditText,,add item,br.com.vansact.AddItemShoppingList,ed description,ShoppingList2
+android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.TextView,add item,,br.com.vansact.AddItemShoppingList,action do,ShoppingList2
+android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4,android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3
+android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4,android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3
+android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4,android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3
+android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.ImageButton,,,.ui.products.ProductsActivity,fab new product,ShoppingList3
+android.widget.EditText,,,.ShoppingActivity,autocomplete add item,ShoppingList4,android.widget.EditText,,,.ui.products.ProductsActivity,product name,ShoppingList3
+android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.Button,,okay,.ui.products.ProductsActivity,button,ShoppingList3

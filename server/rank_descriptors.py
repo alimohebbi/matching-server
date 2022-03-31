@@ -15,6 +15,9 @@ semantic_config = {"algorithm": algorithm, "descriptors": descriptor, "training_
 
 
 def forbidden_config(semantic_config):
+    if semantic_config['algorithm'] == 'perfect':
+        return semantic_config['descriptors'] != 'union' or semantic_config['training_set'] != 'empty' or \
+               semantic_config['word_embedding'] != 'edit_distance'
     if semantic_config['word_embedding'] in ['jaccard', 'edit_distance', 'random']:
         return semantic_config['training_set'] != 'empty'
     if semantic_config['word_embedding'] in ['use', 'nnlm', 'bert']:
@@ -44,7 +47,7 @@ def score_descriptors(events_list):
     builder.set_events_list(events_list)
     evaluator = builder.build()
     scored_events = evaluator.potential_matches.sort_values(by=['score'], ascending=False)
-    log_query(scored_events,events_list, semantic_config)
+    log_query(scored_events, events_list, semantic_config)
     return scored_events['score'].to_json()
 
 

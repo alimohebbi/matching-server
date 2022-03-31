@@ -1,4 +1,6 @@
 from datetime import date, datetime
+from typing import Optional
+
 import pandas as pd
 
 from config import Config
@@ -9,12 +11,30 @@ timestamp = None
 
 
 class MigrationInfo():
+    atm_craft_map = {'a6': 'ExpenseTracker', 'a7': 'NoteTaking', 'a8': 'ShoppingList'}
 
-    def __init__(self, app_pair):
-        split_app_names = app_pair.split('-')
-        self.src = split_app_names[0]
-        self.target = split_app_names[1]
-        self.task = split_app_names[2] if len(split_app_names) == 4 else None
+    def __init__(self, app_pair=None):
+        if app_pair:
+            split_app_names = app_pair.split('-')
+            self.src = split_app_names[0]
+            self.target = split_app_names[1]
+            self.task = split_app_names[2] if len(split_app_names) == 4 else ''
+            if self.src[:-1] in MigrationInfo.atm_craft_map:
+                self.src = MigrationInfo.atm_craft_map[self.src[:-1]] + self.src[-1]
+                self.target = MigrationInfo.atm_craft_map[self.target[:-1]] + self.target[-1]
+                self.task = ''
+
+    @staticmethod
+    def set_info_from_log(log_row):
+        mig_info = MigrationInfo()
+        mig_info.src = log_row['src']
+        mig_info.target = log_row['target']
+        mig_info.task = log_row['task']
+        if mig_info.src[:-1] in MigrationInfo.atm_craft_map:
+            mig_info.src = MigrationInfo.atm_craft_map[mig_info.src[:-1]] + mig_info.src[-1]
+            mig_info.target = MigrationInfo.atm_craft_map[mig_info.target[:-1]] + mig_info.target[-1]
+            mig_info.task = ''
+        return mig_info
 
 
 def transform_json_to_df(events_list) -> pd.DataFrame:
