@@ -39,9 +39,9 @@ class PerfectEvaluator(AbstractEvaluator):
         migration = migration[condition_event]
 
         if migration.shape[0] > 0:
-            return 1
+            return 1.0
         else:
-            return 0
+            return 0.0
 
     def atm_request(self):
         if 'Expense' in self.eval_config['app_pair'] or 'Note' in self.eval_config['app_pair'] or 'Shop' in \
