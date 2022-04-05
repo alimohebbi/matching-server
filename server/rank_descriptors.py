@@ -30,7 +30,7 @@ def request_empty(events_list):
     if not events_list['sourceEvent']:
         print('Source event is missing')
         return True
-    elif not events_list['candidates']:
+    elif not events_list['candidates']: # Not Ok for atm
         print('Target candidates are missing')
         return True
     return False

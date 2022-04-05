@@ -80,7 +80,7 @@ def log_query(scored_events, events_list, semantic_config):
     global timestamp
     timestamp = datetime.now().now().timestamp()
     log_query_scored(scored_events, semantic_config)
-    log_query_raw(events_list, semantic_config)
+    # log_query_raw(events_list, semantic_config)
 
 
 def add_migration_info(events_list_df, semantic_config):
