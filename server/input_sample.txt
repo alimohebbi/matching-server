@@ -460,7 +460,7 @@
                         "y1": "288",
                         "y2": "718"}},
  "targetLabels": null,
- "smConfig":     "{\"algorithm\": \"adaptdroid\", \"word_embedding\": \"jaccard\", \"descriptors\": \"union\", \"training_set\": \"empty\", \"app_pair\": \"a72-a73-b71-craftdroid\"}"
+ "smConfig":     "{\"algorithm\": \"adaptdroid\", \"word_embedding\": \"jaccard\", \"descriptors\": \"union\", \"training_set\": \"empty\", \"app_pair\": \"ExpenseTracker1-ExpenseTracker2\"}"
 
 
  }
