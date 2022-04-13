@@ -2779,7 +2779,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ExpenseTracker1-ExpenseTracker2
 blogs,glove,adaptdroid,0.6,0.15384615384615385,ExpenseTracker1-ExpenseTracker2
 blogs,w2v,adaptdroid,0.73,0.16666666666666666,ExpenseTracker1-ExpenseTracker2
 blogs,wm,adaptdroid,0.24,0.14285714285714285,ExpenseTracker1-ExpenseTracker2
-empty,edit,adaptdroid,0.45,0.15384615384615385,ExpenseTracker1-ExpenseTracker2
+empty,edit_distance,adaptdroid,0.45,0.15384615384615385,ExpenseTracker1-ExpenseTracker2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ExpenseTracker1-ExpenseTracker2
 googleplay,fast,adaptdroid,0.72,0.18181818181818182,ExpenseTracker1-ExpenseTracker2
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,ExpenseTracker1-ExpenseTracker2
@@ -2800,7 +2800,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ExpenseTracker1-ExpenseTracker3
 blogs,glove,adaptdroid,0.61,0.15384615384615385,ExpenseTracker1-ExpenseTracker3
 blogs,w2v,adaptdroid,0.73,0.16666666666666666,ExpenseTracker1-ExpenseTracker3
 blogs,wm,adaptdroid,0.24,0.14285714285714285,ExpenseTracker1-ExpenseTracker3
-empty,edit,adaptdroid,0.46,0.15384615384615385,ExpenseTracker1-ExpenseTracker3
+empty,edit_distance,adaptdroid,0.46,0.15384615384615385,ExpenseTracker1-ExpenseTracker3
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ExpenseTracker1-ExpenseTracker3
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,ExpenseTracker1-ExpenseTracker3
 googleplay,glove,adaptdroid,0.75,0.16666666666666666,ExpenseTracker1-ExpenseTracker3
@@ -2821,7 +2821,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ExpenseTracker1-ExpenseTracker4
 blogs,glove,adaptdroid,0.68,0.16025641025641024,ExpenseTracker1-ExpenseTracker4
 blogs,w2v,adaptdroid,0.76,0.18181818181818182,ExpenseTracker1-ExpenseTracker4
 blogs,wm,adaptdroid,0.24,0.14285714285714285,ExpenseTracker1-ExpenseTracker4
-empty,edit,adaptdroid,0.44,0.15384615384615385,ExpenseTracker1-ExpenseTracker4
+empty,edit_distance,adaptdroid,0.44,0.15384615384615385,ExpenseTracker1-ExpenseTracker4
 empty,jaccard,adaptdroid,0.16,0.17424242424242425,ExpenseTracker1-ExpenseTracker4
 googleplay,fast,adaptdroid,0.72,0.18181818181818182,ExpenseTracker1-ExpenseTracker4
 googleplay,glove,adaptdroid,0.72,0.16666666666666666,ExpenseTracker1-ExpenseTracker4
@@ -2842,7 +2842,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,ExpenseTracker2-ExpenseTracker3
 blogs,glove,adaptdroid,0.61,0.15384615384615385,ExpenseTracker2-ExpenseTracker3
 blogs,w2v,adaptdroid,0.73,0.16666666666666666,ExpenseTracker2-ExpenseTracker3
 blogs,wm,adaptdroid,0.25,0.14285714285714285,ExpenseTracker2-ExpenseTracker3
-empty,edit,adaptdroid,0.46,0.15384615384615385,ExpenseTracker2-ExpenseTracker3
+empty,edit_distance,adaptdroid,0.46,0.15384615384615385,ExpenseTracker2-ExpenseTracker3
 empty,jaccard,adaptdroid,0.15,0.16025641025641024,ExpenseTracker2-ExpenseTracker3
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,ExpenseTracker2-ExpenseTracker3
 googleplay,glove,adaptdroid,0.75,0.16666666666666666,ExpenseTracker2-ExpenseTracker3
@@ -2863,7 +2863,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ExpenseTracker2-ExpenseTracker4
 blogs,glove,adaptdroid,0.6,0.15384615384615385,ExpenseTracker2-ExpenseTracker4
 blogs,w2v,adaptdroid,0.8,0.18181818181818182,ExpenseTracker2-ExpenseTracker4
 blogs,wm,adaptdroid,0.24,0.14285714285714285,ExpenseTracker2-ExpenseTracker4
-empty,edit,adaptdroid,0.45,0.15384615384615385,ExpenseTracker2-ExpenseTracker4
+empty,edit_distance,adaptdroid,0.45,0.15384615384615385,ExpenseTracker2-ExpenseTracker4
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ExpenseTracker2-ExpenseTracker4
 googleplay,fast,adaptdroid,0.72,0.18181818181818182,ExpenseTracker2-ExpenseTracker4
 googleplay,glove,adaptdroid,0.75,0.16666666666666666,ExpenseTracker2-ExpenseTracker4
@@ -2884,7 +2884,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ExpenseTracker3-ExpenseTracker4
 blogs,glove,adaptdroid,0.61,0.15384615384615385,ExpenseTracker3-ExpenseTracker4
 blogs,w2v,adaptdroid,0.8,0.18181818181818182,ExpenseTracker3-ExpenseTracker4
 blogs,wm,adaptdroid,0.25,0.14285714285714285,ExpenseTracker3-ExpenseTracker4
-empty,edit,adaptdroid,0.47,0.15384615384615385,ExpenseTracker3-ExpenseTracker4
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,ExpenseTracker3-ExpenseTracker4
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ExpenseTracker3-ExpenseTracker4
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,ExpenseTracker3-ExpenseTracker4
 googleplay,glove,adaptdroid,0.75,0.16666666666666666,ExpenseTracker3-ExpenseTracker4
@@ -2905,7 +2905,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,NoteTaking2-NoteTaking3
 blogs,glove,adaptdroid,0.61,0.15384615384615385,NoteTaking2-NoteTaking3
 blogs,w2v,adaptdroid,0.73,0.16666666666666666,NoteTaking2-NoteTaking3
 blogs,wm,adaptdroid,0.25,0.14285714285714285,NoteTaking2-NoteTaking3
-empty,edit,adaptdroid,0.46,0.15384615384615385,NoteTaking2-NoteTaking3
+empty,edit_distance,adaptdroid,0.46,0.15384615384615385,NoteTaking2-NoteTaking3
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,NoteTaking2-NoteTaking3
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,NoteTaking2-NoteTaking3
 googleplay,glove,adaptdroid,0.69,0.15384615384615385,NoteTaking2-NoteTaking3
@@ -2926,7 +2926,7 @@ blogs,fast,adaptdroid,0.75,0.16666666666666666,NoteTaking2-NoteTaking4
 blogs,glove,adaptdroid,0.62,0.15384615384615385,NoteTaking2-NoteTaking4
 blogs,w2v,adaptdroid,0.76,0.16025641025641024,NoteTaking2-NoteTaking4
 blogs,wm,adaptdroid,0.27,0.14285714285714285,NoteTaking2-NoteTaking4
-empty,edit,adaptdroid,0.35,0.14285714285714285,NoteTaking2-NoteTaking4
+empty,edit_distance,adaptdroid,0.35,0.14285714285714285,NoteTaking2-NoteTaking4
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,NoteTaking2-NoteTaking4
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,NoteTaking2-NoteTaking4
 googleplay,glove,adaptdroid,0.74,0.15384615384615385,NoteTaking2-NoteTaking4
@@ -2947,7 +2947,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,NoteTaking3-NoteTaking4
 blogs,glove,adaptdroid,0.62,0.15384615384615385,NoteTaking3-NoteTaking4
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,NoteTaking3-NoteTaking4
 blogs,wm,adaptdroid,0.25,0.14285714285714285,NoteTaking3-NoteTaking4
-empty,edit,adaptdroid,0.34,0.14285714285714285,NoteTaking3-NoteTaking4
+empty,edit_distance,adaptdroid,0.34,0.14285714285714285,NoteTaking3-NoteTaking4
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,NoteTaking3-NoteTaking4
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,NoteTaking3-NoteTaking4
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,NoteTaking3-NoteTaking4
@@ -2968,7 +2968,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ShoppingList1-ShoppingList2
 blogs,glove,adaptdroid,0.61,0.15384615384615385,ShoppingList1-ShoppingList2
 blogs,w2v,adaptdroid,0.8,0.18181818181818182,ShoppingList1-ShoppingList2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,ShoppingList1-ShoppingList2
-empty,edit,adaptdroid,0.45,0.15384615384615385,ShoppingList1-ShoppingList2
+empty,edit_distance,adaptdroid,0.45,0.15384615384615385,ShoppingList1-ShoppingList2
 empty,jaccard,adaptdroid,0.15,0.16666666666666666,ShoppingList1-ShoppingList2
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,ShoppingList1-ShoppingList2
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,ShoppingList1-ShoppingList2
@@ -2989,7 +2989,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,ShoppingList1-ShoppingList3
 blogs,glove,adaptdroid,0.62,0.15384615384615385,ShoppingList1-ShoppingList3
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,ShoppingList1-ShoppingList3
 blogs,wm,adaptdroid,0.25,0.14285714285714285,ShoppingList1-ShoppingList3
-empty,edit,adaptdroid,0.48,0.15384615384615385,ShoppingList1-ShoppingList3
+empty,edit_distance,adaptdroid,0.48,0.15384615384615385,ShoppingList1-ShoppingList3
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ShoppingList1-ShoppingList3
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,ShoppingList1-ShoppingList3
 googleplay,glove,adaptdroid,0.69,0.15384615384615385,ShoppingList1-ShoppingList3
@@ -3010,7 +3010,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,ShoppingList2-ShoppingList3
 blogs,glove,adaptdroid,0.62,0.15384615384615385,ShoppingList2-ShoppingList3
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,ShoppingList2-ShoppingList3
 blogs,wm,adaptdroid,0.25,0.14285714285714285,ShoppingList2-ShoppingList3
-empty,edit,adaptdroid,0.47,0.15384615384615385,ShoppingList2-ShoppingList3
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,ShoppingList2-ShoppingList3
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ShoppingList2-ShoppingList3
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,ShoppingList2-ShoppingList3
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,ShoppingList2-ShoppingList3
@@ -3031,7 +3031,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ShoppingList4-ShoppingList1
 blogs,glove,adaptdroid,0.6,0.15384615384615385,ShoppingList4-ShoppingList1
 blogs,w2v,adaptdroid,0.8,0.18181818181818182,ShoppingList4-ShoppingList1
 blogs,wm,adaptdroid,0.24,0.14285714285714285,ShoppingList4-ShoppingList1
-empty,edit,adaptdroid,0.45,0.15384615384615385,ShoppingList4-ShoppingList1
+empty,edit_distance,adaptdroid,0.45,0.15384615384615385,ShoppingList4-ShoppingList1
 empty,jaccard,adaptdroid,0.15,0.16666666666666666,ShoppingList4-ShoppingList1
 googleplay,fast,adaptdroid,0.72,0.18181818181818182,ShoppingList4-ShoppingList1
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,ShoppingList4-ShoppingList1
@@ -3052,7 +3052,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,ShoppingList4-ShoppingList2
 blogs,glove,adaptdroid,0.61,0.15384615384615385,ShoppingList4-ShoppingList2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,ShoppingList4-ShoppingList2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,ShoppingList4-ShoppingList2
-empty,edit,adaptdroid,0.47,0.15384615384615385,ShoppingList4-ShoppingList2
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,ShoppingList4-ShoppingList2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ShoppingList4-ShoppingList2
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,ShoppingList4-ShoppingList2
 googleplay,glove,adaptdroid,0.69,0.15384615384615385,ShoppingList4-ShoppingList2
@@ -3073,7 +3073,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,ShoppingList4-ShoppingList3
 blogs,glove,adaptdroid,0.61,0.15384615384615385,ShoppingList4-ShoppingList3
 blogs,w2v,adaptdroid,0.73,0.16666666666666666,ShoppingList4-ShoppingList3
 blogs,wm,adaptdroid,0.24,0.14285714285714285,ShoppingList4-ShoppingList3
-empty,edit,adaptdroid,0.45,0.15384615384615385,ShoppingList4-ShoppingList3
+empty,edit_distance,adaptdroid,0.45,0.15384615384615385,ShoppingList4-ShoppingList3
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,ShoppingList4-ShoppingList3
 googleplay,fast,adaptdroid,0.72,0.18181818181818182,ShoppingList4-ShoppingList3
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,ShoppingList4-ShoppingList3
@@ -3094,7 +3094,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a11b2-a13b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a11b2-a13b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a11b2-a13b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a11b2-a13b2
-empty,edit,adaptdroid,0.48,0.14835164835164835,a11b2-a13b2
+empty,edit_distance,adaptdroid,0.48,0.14835164835164835,a11b2-a13b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a11b2-a13b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a11b2-a13b2
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,a11b2-a13b2
@@ -3115,7 +3115,7 @@ blogs,fast,adaptdroid,0.75,0.16666666666666666,a11b2-a14b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a11b2-a14b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a11b2-a14b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a11b2-a14b2
-empty,edit,adaptdroid,0.35,0.14285714285714285,a11b2-a14b2
+empty,edit_distance,adaptdroid,0.35,0.14285714285714285,a11b2-a14b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a11b2-a14b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a11b2-a14b2
 googleplay,glove,adaptdroid,0.69,0.15384615384615385,a11b2-a14b2
@@ -3346,7 +3346,7 @@ blogs,fast,adaptdroid,0.75,0.16666666666666666,a22b2-a25b2
 blogs,glove,adaptdroid,0.68,0.15384615384615385,a22b2-a25b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a22b2-a25b2
 blogs,wm,adaptdroid,0.26,0.14285714285714285,a22b2-a25b2
-empty,edit,adaptdroid,0.35,0.14285714285714285,a22b2-a25b2
+empty,edit_distance,adaptdroid,0.35,0.14285714285714285,a22b2-a25b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a22b2-a25b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a22b2-a25b2
 googleplay,glove,adaptdroid,0.74,0.15384615384615385,a22b2-a25b2
@@ -3367,7 +3367,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a23b2-a24b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a23b2-a24b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a23b2-a24b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a23b2-a24b2
-empty,edit,adaptdroid,0.34,0.14285714285714285,a23b2-a24b2
+empty,edit_distance,adaptdroid,0.34,0.14285714285714285,a23b2-a24b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a23b2-a24b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a23b2-a24b2
 googleplay,glove,adaptdroid,0.74,0.15384615384615385,a23b2-a24b2
@@ -3388,7 +3388,7 @@ blogs,fast,adaptdroid,0.75,0.16666666666666666,a24b2-a25b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a24b2-a25b2
 blogs,w2v,adaptdroid,0.7,0.15384615384615385,a24b2-a25b2
 blogs,wm,adaptdroid,0.26,0.14285714285714285,a24b2-a25b2
-empty,edit,adaptdroid,0.35,0.14285714285714285,a24b2-a25b2
+empty,edit_distance,adaptdroid,0.35,0.14285714285714285,a24b2-a25b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a24b2-a25b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a24b2-a25b2
 googleplay,glove,adaptdroid,0.75,0.15384615384615385,a24b2-a25b2
@@ -3409,7 +3409,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a33-a35
 blogs,glove,adaptdroid,0.58,0.15384615384615385,a33-a35
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a33-a35
 blogs,wm,adaptdroid,0.24,0.14285714285714285,a33-a35
-empty,edit,adaptdroid,0.44,0.15384615384615385,a33-a35
+empty,edit_distance,adaptdroid,0.44,0.15384615384615385,a33-a35
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a33-a35
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,a33-a35
 googleplay,glove,adaptdroid,0.68,0.15384615384615385,a33-a35
@@ -3430,7 +3430,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a43-a44
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a43-a44
 blogs,w2v,adaptdroid,0.75,0.16666666666666666,a43-a44
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a43-a44
-empty,edit,adaptdroid,0.47,0.15384615384615385,a43-a44
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,a43-a44
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a43-a44
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,a43-a44
 googleplay,glove,adaptdroid,0.69,0.15384615384615385,a43-a44
@@ -3451,7 +3451,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a43-a45
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a43-a45
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a43-a45
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a43-a45
-empty,edit,adaptdroid,0.48,0.15384615384615385,a43-a45
+empty,edit_distance,adaptdroid,0.48,0.15384615384615385,a43-a45
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a43-a45
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a43-a45
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,a43-a45
@@ -3472,7 +3472,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a44-a45
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a44-a45
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a44-a45
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a44-a45
-empty,edit,adaptdroid,0.48,0.15384615384615385,a44-a45
+empty,edit_distance,adaptdroid,0.48,0.15384615384615385,a44-a45
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a44-a45
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a44-a45
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,a44-a45
@@ -3493,7 +3493,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a51b2-a52b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a51b2-a52b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a51b2-a52b2
 blogs,wm,adaptdroid,0.26,0.14285714285714285,a51b2-a52b2
-empty,edit,adaptdroid,0.47,0.15384615384615385,a51b2-a52b2
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,a51b2-a52b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a51b2-a52b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a51b2-a52b2
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,a51b2-a52b2
@@ -3514,7 +3514,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a51b2-a53b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a51b2-a53b2
 blogs,w2v,adaptdroid,0.8,0.17424242424242425,a51b2-a53b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a51b2-a53b2
-empty,edit,adaptdroid,0.47,0.15384615384615385,a51b2-a53b2
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,a51b2-a53b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a51b2-a53b2
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,a51b2-a53b2
 googleplay,glove,adaptdroid,0.75,0.16666666666666666,a51b2-a53b2
@@ -3535,7 +3535,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a51b2-a54b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a51b2-a54b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a51b2-a54b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a51b2-a54b2
-empty,edit,adaptdroid,0.48,0.14835164835164835,a51b2-a54b2
+empty,edit_distance,adaptdroid,0.48,0.14835164835164835,a51b2-a54b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a51b2-a54b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a51b2-a54b2
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,a51b2-a54b2
@@ -3556,7 +3556,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a51b2-a55b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a51b2-a55b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a51b2-a55b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a51b2-a55b2
-empty,edit,adaptdroid,0.47,0.15384615384615385,a51b2-a55b2
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,a51b2-a55b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a51b2-a55b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a51b2-a55b2
 googleplay,glove,adaptdroid,0.74,0.15384615384615385,a51b2-a55b2
@@ -3577,7 +3577,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a52b2-a53b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a52b2-a53b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a52b2-a53b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a52b2-a53b2
-empty,edit,adaptdroid,0.48,0.15384615384615385,a52b2-a53b2
+empty,edit_distance,adaptdroid,0.48,0.15384615384615385,a52b2-a53b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a52b2-a53b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a52b2-a53b2
 googleplay,glove,adaptdroid,0.69,0.15384615384615385,a52b2-a53b2
@@ -3598,7 +3598,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a52b2-a54b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a52b2-a54b2
 blogs,w2v,adaptdroid,0.73,0.16666666666666666,a52b2-a54b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a52b2-a54b2
-empty,edit,adaptdroid,0.47,0.15384615384615385,a52b2-a54b2
+empty,edit_distance,adaptdroid,0.47,0.15384615384615385,a52b2-a54b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a52b2-a54b2
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,a52b2-a54b2
 googleplay,glove,adaptdroid,0.75,0.16666666666666666,a52b2-a54b2
@@ -3619,7 +3619,7 @@ blogs,fast,adaptdroid,0.73,0.16666666666666666,a52b2-a55b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a52b2-a55b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a52b2-a55b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a52b2-a55b2
-empty,edit,adaptdroid,0.48,0.15384615384615385,a52b2-a55b2
+empty,edit_distance,adaptdroid,0.48,0.15384615384615385,a52b2-a55b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a52b2-a55b2
 googleplay,fast,adaptdroid,0.72,0.16666666666666666,a52b2-a55b2
 googleplay,glove,adaptdroid,0.7,0.15384615384615385,a52b2-a55b2
@@ -3640,7 +3640,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,a53b2-a54b2
 blogs,glove,adaptdroid,0.6,0.15384615384615385,a53b2-a54b2
 blogs,w2v,adaptdroid,0.8,0.18181818181818182,a53b2-a54b2
 blogs,wm,adaptdroid,0.26,0.14285714285714285,a53b2-a54b2
-empty,edit,adaptdroid,0.35,0.14285714285714285,a53b2-a54b2
+empty,edit_distance,adaptdroid,0.35,0.14285714285714285,a53b2-a54b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a53b2-a54b2
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,a53b2-a54b2
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,a53b2-a54b2
@@ -3661,7 +3661,7 @@ blogs,fast,adaptdroid,0.75,0.18181818181818182,a53b2-a55b2
 blogs,glove,adaptdroid,0.6,0.15384615384615385,a53b2-a55b2
 blogs,w2v,adaptdroid,0.8,0.18181818181818182,a53b2-a55b2
 blogs,wm,adaptdroid,0.25,0.14285714285714285,a53b2-a55b2
-empty,edit,adaptdroid,0.46,0.15384615384615385,a53b2-a55b2
+empty,edit_distance,adaptdroid,0.46,0.15384615384615385,a53b2-a55b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a53b2-a55b2
 googleplay,fast,adaptdroid,0.69,0.16666666666666666,a53b2-a55b2
 googleplay,glove,adaptdroid,0.73,0.16666666666666666,a53b2-a55b2
@@ -3682,7 +3682,7 @@ blogs,fast,adaptdroid,0.75,0.16666666666666666,a54b2-a55b2
 blogs,glove,adaptdroid,0.62,0.15384615384615385,a54b2-a55b2
 blogs,w2v,adaptdroid,0.76,0.16666666666666666,a54b2-a55b2
 blogs,wm,adaptdroid,0.27,0.14285714285714285,a54b2-a55b2
-empty,edit,adaptdroid,0.36,0.14285714285714285,a54b2-a55b2
+empty,edit_distance,adaptdroid,0.36,0.14285714285714285,a54b2-a55b2
 empty,jaccard,adaptdroid,0.15,0.15384615384615385,a54b2-a55b2
 googleplay,fast,adaptdroid,0.73,0.16666666666666666,a54b2-a55b2
 googleplay,glove,adaptdroid,0.74,0.15384615384615385,a54b2-a55b2
