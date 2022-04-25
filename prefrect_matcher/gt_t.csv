@@ -1,345 +1,517 @@
 src_class,src_content_desc,src_text,src_activity,src_id,src_app,target_class,target_content_desc,target_text,target_activity,target_id,target_app
 android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search,.MainActivity,search,a11b12
 android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search,.MainActivity,search,a11b12
+android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12,android.view.View,donald bren school information computer science,,.MainActivity,,a11b12
 android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12
+android.view.View,,uci homepage,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12,android.view.View,,uci homepage,.MainActivity,,a11b12
+SYS_EVENT,,,,,a13b12,SYS_EVENT,,,,,a11b12
+android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12,android.view.View,,donald bren school information computer science,.MainActivity,,a11b12
 android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
 android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.view.View,donald bren school information computer science,,.MainActivity,,a11b12,android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12
 android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12,android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.view.View,,uci homepage,.MainActivity,,a11b12,android.view.View,,uci homepage,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12
+SYS_EVENT,,,,,a11b12,SYS_EVENT,,,,,a13b12
+android.view.View,,donald bren school information computer science,.MainActivity,,a11b12,android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12
 android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
 android.widget.EditText,,search,.MainActivity,search,a11b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
+android.view.View,donald bren school information computer science,,.MainActivity,,a11b12,android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12
 android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12,android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12
+android.view.View,,uci homepage,.MainActivity,,a11b12,android.view.View,,uci homepage,.Activity.BrowserActivity,,a14b12
+SYS_EVENT,,,,,a11b12,SYS_EVENT,,,,,a14b12
+android.view.View,,donald bren school information computer science,.MainActivity,,a11b12,android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12
 android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
 android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12
+android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12,android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12
 android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12,android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12
+android.view.View,,uci homepage,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12,android.view.View,,uci homepage,.Activity.BrowserActivity,,a14b12
+SYS_EVENT,,,,,a13b12,SYS_EVENT,,,,,a14b12
+android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12,android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12
 android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,search,.MainActivity,search,a11b12
 android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,search,.MainActivity,search,a11b12
+android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12,android.view.View,donald bren school information computer science,,.MainActivity,,a11b12
 android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http www ic uci edu,.MainActivity,search,a11b12
+android.view.View,,uci homepage,.Activity.BrowserActivity,,a14b12,android.view.View,,uci homepage,.MainActivity,,a11b12
+SYS_EVENT,,,,,a14b12,SYS_EVENT,,,,,a11b12
+android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12,android.view.View,,donald bren school information computer science,.MainActivity,,a11b12
 android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
 android.widget.EditText,,search type url,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http duckduckgo com kao kak,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12,android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12
 android.widget.EditText,,http www ic uci edu,.Activity.BrowserActivity,main omnibox input,a14b12,android.widget.EditText,,http www ic uci edu,com.stoutner.privacybrowser.activities.MainWebViewActivity,url edittext,a13b12
+android.view.View,,uci homepage,.Activity.BrowserActivity,,a14b12,android.view.View,,uci homepage,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12
+SYS_EVENT,,,,,a14b12,SYS_EVENT,,,,,a13b12
+android.view.View,,donald bren school information computer science,.Activity.BrowserActivity,,a14b12,android.view.View,,donald bren school information computer science,com.stoutner.privacybrowser.activities.MainWebViewActivity,,a13b12
 android.widget.ImageButton,,,.MainActivity,add item fab,a21b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
 android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+,,sample todo,.MainActivity,,a21b22,,,sample todo,.ui.home.MainActivity,,a22b22
 android.widget.ImageButton,,,.MainActivity,add item fab,a21b22,android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22
 android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
 android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
 android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+,,sample todo,.MainActivity,,a21b22,,,sample todo,.view.MainActivity,,a23b22
 android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
 android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
 android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+,,sample todo,.MainActivity,,a21b22,,,sample todo,.SimplyDoActivity,,a24b22
 android.widget.ImageButton,,,.MainActivity,add item fab,a21b22,android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22
 android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
 android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
 android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+,,sample todo,.MainActivity,,a21b22,,,sample todo,.activity.MainActivity,,a25b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.MainActivity,add item fab,a21b22
 android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
 android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+,,sample todo,.ui.home.MainActivity,,a22b22,,,sample todo,.MainActivity,,a21b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22
 android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
 android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
 android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+,,sample todo,.ui.home.MainActivity,,a22b22,,,sample todo,.view.MainActivity,,a23b22
 android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
 android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
 android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+,,sample todo,.ui.home.MainActivity,,a22b22,,,sample todo,.SimplyDoActivity,,a24b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22
 android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
 android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
 android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+,,sample todo,.ui.home.MainActivity,,a22b22,,,sample todo,.activity.MainActivity,,a25b22
 android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22,android.widget.ImageButton,,,.MainActivity,add item fab,a21b22
 android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
 android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
+android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
 android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+,,sample todo,.view.MainActivity,,a23b22,,,sample todo,.MainActivity,,a21b22
 android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
 android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
 android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22
+,,sample todo,.view.MainActivity,,a23b22,,,sample todo,.ui.home.MainActivity,,a22b22
 android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
 android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
 android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
+android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
 android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+,,sample todo,.view.MainActivity,,a23b22,,,sample todo,.SimplyDoActivity,,a24b22
 android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22,android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22
 android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
 android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
+android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
 android.widget.TextView,,delete task,.view.MainActivity,title,a23b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+,,sample todo,.view.MainActivity,,a23b22,,,sample todo,.activity.MainActivity,,a25b22
 android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
 android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
+android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
 android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+,,sample todo,.SimplyDoActivity,,a24b22,,,sample todo,.MainActivity,,a21b22
 android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
 android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
 android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,delete,.ui.home.MainActivity,btn delete,a22b22
+,,sample todo,.SimplyDoActivity,,a24b22,,,sample todo,.ui.home.MainActivity,,a22b22
 android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
 android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
 android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
+android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
 android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
+,,sample todo,.SimplyDoActivity,,a24b22,,,sample todo,.view.MainActivity,,a23b22
 android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22,android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22
 android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22,android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22
+android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
 android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22,android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22
+,,sample todo,.SimplyDoActivity,,a24b22,,,sample todo,.activity.MainActivity,,a25b22
 android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.ImageButton,,,.MainActivity,add item fab,a21b22
 android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,,.AddToDoActivity,user edit text,a21b22
 android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.ImageButton,,,.AddToDoActivity,make float action button,a21b22
 android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.MainActivity,list item textview,a21b22
+,,sample todo,.activity.MainActivity,,a25b22,,,sample todo,.MainActivity,,a21b22
 android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,title,.ui.home.MainActivity,edit text,a22b22
 android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.ImageButton,,,.ui.home.MainActivity,fab add,a22b22
 android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.ui.home.MainActivity,txt thing,a22b22
+,,sample todo,.activity.MainActivity,,a25b22,,,sample todo,.ui.home.MainActivity,,a22b22
 android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.ImageButton,,,.view.MainActivity,fab new task,a23b22
 android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,name,.view.MainActivity,et new task name,a23b22
 android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.Button,,okay,.view.MainActivity,bt new task ok,a23b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.view.MainActivity,tv exlv task name,a23b22
 android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,delete task,.view.MainActivity,title,a23b22
-android.widget.ImageButton,,,.activity.MainActivity,fab add,a25b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
-android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
-android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31,android.widget.Button,,sign,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,sign button,a35b31
+,,sample todo,.activity.MainActivity,,a25b22,,,sample todo,.view.MainActivity,,a23b22
+android.widget.EditText,,new item,.activity.MainActivity,new item description,a25b22,android.widget.EditText,,new list name,.SimplyDoActivity,add list edit text,a24b22
+android.widget.ImageButton,do,,.activity.MainActivity,button add new item,a25b22,android.widget.Button,,add,.SimplyDoActivity,add list button,a24b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,sample todo,.SimplyDoActivity,text,a24b22
+android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+,,sample todo,.activity.MainActivity,,a25b22,,,sample todo,.SimplyDoActivity,,a24b22
+android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31,android.widget.Button,,sign email,.ui.activities.ActivityCreateAccount,email sign,a35b31
+android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31,android.widget.Button,,sign email,.ui.activities.ActivityCreateAccount,email sign,a35b31
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text email,a33b31,android.widget.EditText,,email,.ui.activities.ActivityCreateAccount,email address,a35b31
 android.widget.EditText,,,.activity.LoginAndSignUpActivity,text email,a33b31,android.widget.EditText,,email,.ui.activities.ActivityCreateAccount,email address,a35b31
 android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b31,android.widget.EditText,,password,.ui.activities.ActivityCreateAccount,password,a35b31
 android.widget.EditText,,,.activity.LoginAndSignUpActivity,text last name,a33b31,android.widget.EditText,,last name,.ui.activities.ActivityCreateAccount,last name,a35b31
 android.widget.EditText,,,.activity.LoginAndSignUpActivity,text first name,a33b31,android.widget.EditText,,first name,.ui.activities.ActivityCreateAccount,first name,a35b31
 android.widget.Button,,create account,.activity.LoginAndSignUpActivity,button sign,a33b31,android.widget.Button,,next,.ui.activities.ActivityCreateAccount,signup next button,a35b31
-android.widget.Button,,sign,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,sign button,a35b31,android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31
+android.widget.Button,,sign email,.ui.activities.ActivityCreateAccount,email sign,a35b31,android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31
+android.widget.Button,,sign email,.ui.activities.ActivityCreateAccount,email sign,a35b31,android.widget.Button,,join,.activity.ProfileActivity,button sign,a33b31
+android.widget.EditText,,email,.ui.activities.ActivityCreateAccount,email address,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text email,a33b31
 android.widget.EditText,,email,.ui.activities.ActivityCreateAccount,email address,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text email,a33b31
 android.widget.EditText,,password,.ui.activities.ActivityCreateAccount,password,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b31
 android.widget.EditText,,last name,.ui.activities.ActivityCreateAccount,last name,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text last name,a33b31
 android.widget.EditText,,first name,.ui.activities.ActivityCreateAccount,first name,a35b31,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text first name,a33b31
 android.widget.Button,,next,.ui.activities.ActivityCreateAccount,signup next button,a35b31,android.widget.Button,,create account,.activity.LoginAndSignUpActivity,button sign,a33b31
 android.widget.Button,,log,.activity.ProfileActivity,button log,a33b32,android.widget.Button,,log,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,log button,a35b32
+android.widget.Button,,log,.activity.ProfileActivity,button log,a33b32,android.widget.Button,,log,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,log button,a35b32
+android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b32,android.widget.EditText,,password,.ui.activities.ActivityLogin,activity login edit password,a35b32
 android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b32,android.widget.EditText,,password,.ui.activities.ActivityLogin,activity login edit password,a35b32
 android.widget.EditText,,,.activity.LoginAndSignUpActivity,text username,a33b32,android.widget.EditText,,email,.ui.activities.ActivityLogin,activity login edit username,a35b32
 android.widget.Button,,sign,.activity.LoginAndSignUpActivity,button sign,a33b32,android.widget.Button,,log,.ui.activities.ActivityLogin,activity login btn,a35b32
 android.widget.Button,,log,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,log button,a35b32,android.widget.Button,,log,.activity.ProfileActivity,button log,a33b32
+android.widget.Button,,log,.ui.activities.profile.loggedout.ActivityUserProfileLoggedOut,log button,a35b32,android.widget.Button,,log,.activity.ProfileActivity,button log,a33b32
+android.widget.EditText,,password,.ui.activities.ActivityLogin,activity login edit password,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b32
 android.widget.EditText,,password,.ui.activities.ActivityLogin,activity login edit password,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text password,a33b32
 android.widget.EditText,,email,.ui.activities.ActivityLogin,activity login edit username,a35b32,android.widget.EditText,,,.activity.LoginAndSignUpActivity,text username,a33b32
 android.widget.Button,,log,.ui.activities.ActivityLogin,activity login btn,a35b32,android.widget.Button,,sign,.activity.LoginAndSignUpActivity,button sign,a33b32
-android.widget.TextView,,sample todo,.activity.MainActivity,text description,a25b22,android.widget.TextView,,delete,.SimplyDoActivity,title,a24b22
+android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a43b41,android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a44b41
 android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41
 android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41
+android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a43b41,android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a44b41
+android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a43b41,android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a45b41
 android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41
 android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41
+android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a43b41,android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a45b41
+android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a44b41,android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a43b41
 android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41
 android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41
+android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a44b41,android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a43b41
+android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a44b41,android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a45b41
 android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41
 android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41
+android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a44b41,android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a45b41
+android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a45b41,android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a43b41
 android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a43b41
 android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a43b41
+android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a45b41,android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a43b41
+android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a45b41,android.widget.TextView,,another rabbit hole,ru.mail.ui.SlideStackActivity,subject,a44b41
 android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a45b41,android.widget.TextView,search,,ru.mail.ui.SlideStackActivity,toolbar action search,a44b41
 android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41
+android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a45b41,android.widget.EditText,,search text,ru.mail.ui.SearchActivity,search text,a44b41
+android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a45b41,android.widget.TextView,,automate software engineering,ru.mail.ui.SearchActivity,subject,a44b41
+android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a43b42,android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a44b42
 android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42
 android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42,android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42
 android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42
+android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a43b42,android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a44b42
+android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a44b42,android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a43b42
 android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42
 android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42,android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42
 android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42
+android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a44b42,android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a43b42
+android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a45b42,android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a43b42
 android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42
 android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42,android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42
 android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42
+android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a45b42,android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a43b42
+android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a43b42,android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a45b42
 android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a43b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a43b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42
 android.widget.EditText,,sent mail ru app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a43b42,android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42
 android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a43b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42
+android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a43b42,android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a45b42
+android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a45b42,android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a44b42
 android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42
 android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42,android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42
 android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42
+android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a45b42,android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a44b42
+android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a44b42,android.widget.TextView,,inbox,ru.mail.ui.SlideStackActivity,folder name,a45b42
 android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a44b42,android.widget.TextView,new message,,ru.mail.ui.SlideStackActivity,toolbar action new,a45b42
+android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,edit text,a45b42
 android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a44b42,android.widget.EditText,,,ru.mail.ui.writemail.WriteActivity,subject,a45b42
 android.widget.EditText,,sent mail android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a44b42,android.widget.EditText,,sent outlook email app android,ru.mail.ui.writemail.WriteActivity,mailbox create new body,a45b42
 android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a44b42,android.widget.TextView,send,,ru.mail.ui.writemail.WriteActivity,toolbar action send,a45b42
+android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a44b42,android.widget.TextView,,icstsuper cool,ru.mail.ui.SlideStackActivity,subject,a45b42
 android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
 android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
 android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.EditText,,,.Tip,each,a51b52,android.widget.EditText,,,.MainActivity,per person edit text,a52b52
 android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
 android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
 android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
+android.widget.EditText,,,.Tip,each,a51b52,android.widget.TextView,,,.MainActivity,text view total per person,a53b52
 android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
 android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
 android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
+android.widget.EditText,,,.Tip,each,a51b52,android.widget.TextView,,,.Calculator,per person bill tv,a54b52
 android.widget.EditText,,,.Tip,bill,a51b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
 android.widget.EditText,,,.Tip,percent,a51b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
 android.widget.EditText,,,.Tip,people,a51b52,android.widget.EditText,,,.MainActivity,et person,a55b52
+android.widget.EditText,,,.Tip,each,a51b52,android.widget.TextView,,,.MainActivity,tv person pay,a55b52
 android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.Tip,bill,a51b52
 android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.Tip,percent,a51b52
 android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.EditText,,,.MainActivity,per person edit text,a52b52,android.widget.EditText,,,.Tip,each,a51b52
 android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
 android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
 android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
+android.widget.EditText,,,.MainActivity,per person edit text,a52b52,android.widget.TextView,,,.MainActivity,text view total per person,a53b52
 android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
 android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
 android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
+android.widget.EditText,,,.MainActivity,per person edit text,a52b52,android.widget.TextView,,,.Calculator,per person bill tv,a54b52
 android.widget.EditText,,,.MainActivity,bill edit text,a52b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
 android.widget.EditText,,,.MainActivity,tip edit text,a52b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
 android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52,android.widget.EditText,,,.MainActivity,et person,a55b52
+android.widget.EditText,,,.MainActivity,per person edit text,a52b52,android.widget.TextView,,,.MainActivity,tv person pay,a55b52
 android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.Tip,bill,a51b52
 android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.Tip,percent,a51b52
 android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.TextView,,,.MainActivity,text view total per person,a53b52,android.widget.EditText,,,.Tip,each,a51b52
 android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
 android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
 android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.TextView,,,.MainActivity,text view total per person,a53b52,android.widget.EditText,,,.MainActivity,per person edit text,a52b52
 android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
 android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
 android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
 android.widget.Button,,calculate,.MainActivity,button calculate,a53b52,android.widget.Button,,calculate,.Calculator,calculate btn,a54b52
+android.widget.TextView,,,.MainActivity,text view total per person,a53b52,android.widget.TextView,,,.Calculator,per person bill tv,a54b52
 android.widget.EditText,,,.MainActivity,edit text bill,a53b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
 android.widget.EditText,,,.MainActivity,edit text tip,a53b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
 android.widget.EditText,,,.MainActivity,edit text split,a53b52,android.widget.EditText,,,.MainActivity,et person,a55b52
 android.widget.Button,,calculate,.MainActivity,button calculate,a53b52,android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52
+android.widget.TextView,,,.MainActivity,text view total per person,a53b52,android.widget.TextView,,,.MainActivity,tv person pay,a55b52
 android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.Tip,bill,a51b52
 android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.Tip,percent,a51b52
 android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.TextView,,,.Calculator,per person bill tv,a54b52,android.widget.EditText,,,.Tip,each,a51b52
 android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
 android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
 android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.TextView,,,.Calculator,per person bill tv,a54b52,android.widget.EditText,,,.MainActivity,per person edit text,a52b52
 android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
 android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
 android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
 android.widget.Button,,calculate,.Calculator,calculate btn,a54b52,android.widget.Button,,calculate,.MainActivity,button calculate,a53b52
+android.widget.TextView,,,.Calculator,per person bill tv,a54b52,android.widget.TextView,,,.MainActivity,text view total per person,a53b52
 android.widget.EditText,,,.Calculator,bill amount et,a54b52,android.widget.EditText,,,.MainActivity,et bill total,a55b52
 android.widget.EditText,,,.Calculator,tip percent et,a54b52,android.widget.EditText,,,.MainActivity,et tip amount,a55b52
 android.widget.EditText,,,.Calculator,guest number et,a54b52,android.widget.EditText,,,.MainActivity,et person,a55b52
 android.widget.Button,,calculate,.Calculator,calculate btn,a54b52,android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52
+android.widget.TextView,,,.Calculator,per person bill tv,a54b52,android.widget.TextView,,,.MainActivity,tv person pay,a55b52
 android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.Tip,bill,a51b52
 android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.Tip,percent,a51b52
 android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,,.Tip,people,a51b52
+android.widget.TextView,,,.MainActivity,tv person pay,a55b52,android.widget.EditText,,,.Tip,each,a51b52
 android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.MainActivity,bill edit text,a52b52
 android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.MainActivity,tip edit text,a52b52
 android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,way,.MainActivity,split bill edit text,a52b52
+android.widget.TextView,,,.MainActivity,tv person pay,a55b52,android.widget.EditText,,,.MainActivity,per person edit text,a52b52
 android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.MainActivity,edit text bill,a53b52
 android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.MainActivity,edit text tip,a53b52
 android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,,.MainActivity,edit text split,a53b52
 android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52,android.widget.Button,,calculate,.MainActivity,button calculate,a53b52
+android.widget.TextView,,,.MainActivity,tv person pay,a55b52,android.widget.TextView,,,.MainActivity,text view total per person,a53b52
 android.widget.EditText,,,.MainActivity,et bill total,a55b52,android.widget.EditText,,,.Calculator,bill amount et,a54b52
 android.widget.EditText,,,.MainActivity,et tip amount,a55b52,android.widget.EditText,,,.Calculator,tip percent et,a54b52
 android.widget.EditText,,,.MainActivity,et person,a55b52,android.widget.EditText,,,.Calculator,guest number et,a54b52
 android.widget.Button,,calculate,.MainActivity,bt calculate,a55b52,android.widget.Button,,calculate,.Calculator,calculate btn,a54b52
+android.widget.TextView,,,.MainActivity,tv person pay,a55b52,android.widget.TextView,,,.Calculator,per person bill tv,a54b52
 android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1,android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2
 android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1,android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2
 android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
-android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
+SYS_EVENT,,,,,ExpenseTracker1,SYS_EVENT,,,,,ExpenseTracker2
 android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1,android.widget.ImageButton,,,.MainActivity,image button,ExpenseTracker3
 android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1,android.widget.EditText,,note optional,.InputActivity,input note,ExpenseTracker3
 android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1,android.widget.EditText,,amount,.InputActivity,input amount,ExpenseTracker3
-android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1,android.widget.Button,,do,.InputActivity,do button,ExpenseTracker3
+SYS_EVENT,,,,,ExpenseTracker1,SYS_EVENT,,,,,ExpenseTracker3
 android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1,android.widget.Button,,add expense,.activity.record.MainActivity,btn add expense,ExpenseTracker4
 android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1,android.widget.EditText,,,.activity.record.AddRecordActivity,et category,ExpenseTracker4
 android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
-android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
-android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.ImageButton,,,.view.MainActivity,fab expand menu button,ExpenseTracker1
+SYS_EVENT,,,,,ExpenseTracker1,SYS_EVENT,,,,,ExpenseTracker4
+android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.ImageButton,,,.view.MainActivity,fab new expense,ExpenseTracker1
 android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2,android.widget.EditText,,,.view.ExpenseEditActivity,amount edittext,ExpenseTracker1
 android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2,android.widget.EditText,,,.view.ExpenseEditActivity,description edittext,ExpenseTracker1
-android.widget.Button,,,.ExpenseActivity,date picker,ExpenseTracker2,android.widget.Button,,jun,.view.ExpenseEditActivity,date button,ExpenseTracker1
+android.widget.Button,,,.ExpenseActivity,date picker,ExpenseTracker2,android.widget.Button,,apr,.view.ExpenseEditActivity,date button,ExpenseTracker1
 android.widget.Button,,ok,.ExpenseActivity,button,ExpenseTracker2,android.widget.Button,,ok,.view.ExpenseEditActivity,button,ExpenseTracker1
 android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2,android.widget.ImageButton,,,.view.ExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.Button,,,.MainActivity,total month,ExpenseTracker2,android.widget.TextView,,,.view.MainActivity,expense amount,ExpenseTracker1
 android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.ImageButton,,,.MainActivity,image button,ExpenseTracker3
 android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2,android.widget.EditText,,amount,.InputActivity,input amount,ExpenseTracker3
 android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2,android.widget.EditText,,note optional,.InputActivity,input note,ExpenseTracker3
 android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2,android.widget.Button,,do,.InputActivity,do button,ExpenseTracker3
+android.widget.Button,,,.MainActivity,total month,ExpenseTracker2,android.widget.TextView,,,.MainActivity,current money,ExpenseTracker3
 android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2,android.widget.Button,,add expense,.activity.record.MainActivity,btn add expense,ExpenseTracker4
 android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
 android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2,android.widget.EditText,,,.activity.record.AddRecordActivity,et category,ExpenseTracker4
 android.widget.Button,,,.ExpenseActivity,date picker,ExpenseTracker2,android.widget.TextView,,,.activity.record.AddRecordActivity,tv date,ExpenseTracker4
 android.widget.Button,,ok,.ExpenseActivity,button,ExpenseTracker2,android.widget.Button,,ok,.activity.record.AddRecordActivity,button,ExpenseTracker4
 android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.Button,,,.MainActivity,total month,ExpenseTracker2,android.widget.TextView,,non,.activity.record.MainActivity,tv total expense,ExpenseTracker4
 android.widget.ImageButton,open navigation drawer,,.MainActivity,,ExpenseTracker3,android.widget.ImageButton,,,.view.MainActivity,fab expand menu button,ExpenseTracker1
 android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.ImageButton,,,.view.MainActivity,fab new recur expense,ExpenseTracker1
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
 android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.view.RecurringExpenseEditActivity,description edittext,ExpenseTracker1
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
 android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.view.RecurringExpenseEditActivity,amount edittext,ExpenseTracker1
 android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.TextView,,monthly,.income_activity,text,ExpenseTracker3,android.widget.TextView,,,.view.MainActivity,expense amount,ExpenseTracker1
 android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
 android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
 android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
 android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
-android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4
+android.widget.TextView,,monthly,.income_activity,text,ExpenseTracker3,android.widget.Button,,,.MainActivity,total month,ExpenseTracker2
+android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.TextView,,currently income,.income_activity,text,ExpenseTracker3,android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4
 android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,et category,ExpenseTracker4
-android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
-android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
+android.widget.Button,,add income,.income_activity,button,ExpenseTracker3,android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4
+android.widget.TextView,,monthly,.income_activity,text,ExpenseTracker3,android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4
 android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4,android.widget.ImageButton,,,.view.MainActivity,fab expand menu button,ExpenseTracker1
-android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.ImageButton,,,.view.MainActivity,fab new recur expense,ExpenseTracker1
-android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,,.view.RecurringExpenseEditActivity,amount edittext,ExpenseTracker1
 android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.EditText,,,.view.RecurringExpenseEditActivity,amount edittext,ExpenseTracker1
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,,.view.RecurringExpenseEditActivity,description edittext,ExpenseTracker1
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.ImageButton,,,.view.RecurringExpenseEditActivity,save expense fab,ExpenseTracker1
+android.widget.TextView,,gra,.activity.record.MainActivity,tv title,ExpenseTracker4,android.widget.TextView,,gra,.view.MainActivity,expense title,ExpenseTracker1
 android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4,android.widget.ImageButton,,,.MainActivity,fab,ExpenseTracker2
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
+android.widget.TextView,,field empty,.activity.record.AddRecordActivity,textinput error,ExpenseTracker4,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
 android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.EditText,,,.ExpenseActivity,expense value,ExpenseTracker2
 android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,add description,.ExpenseActivity,expense description,ExpenseTracker2
 android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,save,.ExpenseActivity,save expense,ExpenseTracker2
 android.widget.Button,,add income,.activity.record.MainActivity,btn add income,ExpenseTracker4,android.widget.TextView,,income,.MainActivity,text,ExpenseTracker3
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,add income,.income_activity,button,ExpenseTracker3
+android.widget.TextView,,field empty,.activity.record.AddRecordActivity,textinput error,ExpenseTracker4,android.widget.TextView,,currently income,.income_activity,text,ExpenseTracker3
 android.widget.EditText,,,.activity.record.AddRecordActivity,et price,ExpenseTracker4,android.widget.EditText,,amount,.income_activity,edit text,ExpenseTracker3
+android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,add income,.income_activity,button,ExpenseTracker3
+android.widget.TextView,,field empty,.activity.record.AddRecordActivity,textinput error,ExpenseTracker4,android.widget.TextView,,currently income,.income_activity,text,ExpenseTracker3
 android.widget.EditText,,,.activity.record.AddRecordActivity,et title,ExpenseTracker4,android.widget.EditText,,name,.income_activity,edit text,ExpenseTracker3
 android.widget.TextView,add,,.activity.record.AddRecordActivity,action do,ExpenseTracker4,android.widget.Button,,add income,.income_activity,button,ExpenseTracker3
+android.widget.TextView,,gra,.activity.record.MainActivity,tv title,ExpenseTracker4,android.widget.TextView,,gra,.income_activity,text,ExpenseTracker3
 android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2,android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3
 android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2,android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3
 android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2,android.widget.EditText,,,.NoteActivity,note content,NoteTaking3
 android.widget.ImageButton,,,.EditActivity,,NoteTaking2,android.widget.ImageButton,navigate,,.NoteActivity,,NoteTaking3
+android.widget.TextView,,title,.MainActivity,title view,NoteTaking2,android.widget.TextView,,title,.MainActivity,note title,NoteTaking3
 android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2,android.widget.ImageView,,,.MainActivity,,NoteTaking4
 android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2,android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4
 android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2,android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4
+android.widget.ImageButton,,,.EditActivity,,NoteTaking2,,,,,,NoteTaking4
+android.widget.TextView,,title,.MainActivity,title view,NoteTaking2,android.widget.TextView,,title,.MainActivity,note item textview title,NoteTaking4
+android.widget.TextView,,note,.MainActivity,body view,NoteTaking2,android.widget.TextView,,note,.MainActivity,note item textview content,NoteTaking4
 android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3,android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2
 android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3,android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2
 android.widget.EditText,,,.NoteActivity,note content,NoteTaking3,android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2
 android.widget.ImageButton,navigate,,.PreviewActivity,,NoteTaking3,android.widget.ImageButton,,,.EditActivity,,NoteTaking2
+android.widget.TextView,,note,.MainActivity,note title,NoteTaking3,android.widget.TextView,,note,.MainActivity,title view,NoteTaking2
 android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3,android.widget.ImageView,,,.MainActivity,,NoteTaking4
 android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3,android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4
 android.widget.EditText,,,.NoteActivity,note content,NoteTaking3,android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4
-android.widget.ImageView,,,.MainActivity,,NoteTaking4,android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2
+android.widget.ImageButton,navigate,,.PreviewActivity,,NoteTaking3,,,,,,NoteTaking4
+android.widget.LinearLayout,,,.MainActivity,note linearlayout empty,NoteTaking4,android.widget.ImageButton,new note,,.MainActivity,new note,NoteTaking2
 android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4,android.widget.EditText,,title,.EditActivity,title edit,NoteTaking2
 android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4,android.widget.EditText,,note,.EditActivity,body edit,NoteTaking2
-android.widget.ImageView,,,.MainActivity,,NoteTaking4,android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3
+SYS_EVENT,,,,,NoteTaking4,android.widget.ImageButton,,,.EditActivity,,NoteTaking2
+android.widget.TextView,,to do,.MainActivity,note item textview title,NoteTaking4,android.widget.TextView,,to do,.MainActivity,title view,NoteTaking2
+android.widget.LinearLayout,,,.MainActivity,note linearlayout empty,NoteTaking4,android.widget.ImageButton,,,.MainActivity,create note,NoteTaking3
 android.widget.EditText,,,.app.notes.EditNoteActivity,editor edittext title,NoteTaking4,android.widget.EditText,,title,.NoteActivity,edit note title,NoteTaking3
 android.widget.EditText,,,.app.notes.EditNoteActivity,editor note,NoteTaking4,android.widget.EditText,,,.NoteActivity,note content,NoteTaking3
-android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2
+SYS_EVENT,,,,,NoteTaking4,android.widget.ImageButton,navigate,,.NoteActivity,,NoteTaking3
+android.widget.TextView,,to do,.MainActivity,note item textview title,NoteTaking4,android.widget.TextView,,to do,.MainActivity,note title,NoteTaking3
+android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.TableRow,,,br.com.vansact.MainApp,,ShoppingList2
 android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2
 android.widget.EditText,,description,.ShoppingListEditActivity,shopping list description edit text,ShoppingList1,android.widget.EditText,,add item,br.com.vansact.AddItemShoppingList,ed description,ShoppingList2
 android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.TextView,add item,,br.com.vansact.AddItemShoppingList,action do,ShoppingList2
+android.widget.TextView,,grocery,.MainActivity,shopping list name text view,ShoppingList1,android.widget.TextView,,grocery,br.com.vansact.AddItemShoppingList,action bar title,ShoppingList2
 android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3
 android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1,android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3
 android.widget.EditText,,description,.ShoppingListEditActivity,shopping list description edit text,ShoppingList1,android.widget.EditText,,,.ui.main.MainActivity,list note,ShoppingList3
 android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3
+android.widget.TextView,,grocery,.MainActivity,shopping list name text view,ShoppingList1,android.widget.TextView,,grocery,.ui.main.MainActivity,textview list name,ShoppingList3
 android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1,android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4
 android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1,android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4
-android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4
+android.widget.EditText,,description,.ShoppingListEditActivity,shopping list description edit text,ShoppingList1,android.widget.EditText,,,.ShoppingActivity,autocomplete add item,ShoppingList4
+android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1,android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4
+android.widget.TextView,,grocery,.MainActivity,shopping list name text view,ShoppingList1,android.widget.TextView,,grocery,.ShoppingActivity,text,ShoppingList4
 android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2,android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1
 android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1
 android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2,android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1
+android.widget.TextView,,list,br.com.vansact.AddItemShoppingList,action bar title,ShoppingList2,android.widget.TextView,,list,.MainActivity,shopping list name text view,ShoppingList1
 android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2,android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3
 android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3
 android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2,android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3
+android.widget.TextView,,list,br.com.vansact.AddItemShoppingList,action bar title,ShoppingList2,android.widget.TextView,,list,.ui.products.ProductsActivity,,ShoppingList3
 android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2,android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4
 android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2,android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4
 android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2,android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4
+android.widget.TextView,,list,br.com.vansact.AddItemShoppingList,action bar title,ShoppingList2,android.widget.TextView,,list,.ShoppingActivity,text,ShoppingList4
 android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3,android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1
 android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3,android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1
 android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3,android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1
+android.widget.TextView,,grocery,.ui.products.ProductsActivity,,ShoppingList3,android.widget.TextView,,grocery,.MainActivity,shopping list name text view,ShoppingList1
 android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3,android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2
 android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2
 android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3,android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2
+android.widget.TextView,,grocery,.ui.products.ProductsActivity,,ShoppingList3,android.widget.TextView,,grocery,br.com.vansact.AddItemShoppingList,action bar title,ShoppingList2
 android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3,android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4
 android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3,android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4
 android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3,android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4
+android.widget.TextView,,grocery,.ui.products.ProductsActivity,,ShoppingList3,android.widget.TextView,,grocery,.ShoppingActivity,text,ShoppingList4
 android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4,android.widget.ImageButton,,,.MainActivity,fab,ShoppingList1
 android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4,android.widget.EditText,,shopping list name,.ShoppingListEditActivity,shopping list name edit text,ShoppingList1
 android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4,android.widget.Button,,save,.ShoppingListEditActivity,add shopping list button,ShoppingList1
-android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.LinearLayout,,,.MainActivity,,ShoppingList1
-android.widget.Button,,ok,.ui.PickItemsActivity,button,ShoppingList4,android.widget.ImageButton,,,.ShoppingListViewActivity,fab,ShoppingList1
-android.widget.Spinner,,,.ShoppingActivity,spinner listfilter,ShoppingList4,android.widget.EditText,,item name,.ItemEditActivity,item name edit text,ShoppingList1
-android.widget.CheckedTextView,,list,.ShoppingActivity,text,ShoppingList4,android.widget.Button,,save,.ItemEditActivity,add shopping list button,ShoppingList1
+android.widget.TextView,,list,.ShoppingActivity,text,ShoppingList4,android.widget.TextView,,list,.MainActivity,shopping list name text view,ShoppingList1
+android.widget.EditText,,,.ShoppingActivity,autocomplete add item,ShoppingList4,android.widget.EditText,,item name,.ItemEditActivity,item name edit text,ShoppingList1
+android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.Button,,save,.ItemEditActivity,add shopping list button,ShoppingList1
+android.widget.TextView,,item,.ShoppingActivity,name,ShoppingList4,android.widget.TextView,,item,.ShoppingListViewActivity,item name text view,ShoppingList1
 android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4,android.widget.TextView,new list,,br.com.vansact.MainApp,action add,ShoppingList2
 android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4,android.widget.EditText,,,br.com.vansact.MainApp,,ShoppingList2
 android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4,android.widget.Button,,ok,br.com.vansact.MainApp,button,ShoppingList2
+android.widget.TextView,,list,.ShoppingActivity,text,ShoppingList4,android.widget.TextView,,list,br.com.vansact.AddItemShoppingList,action bar title,ShoppingList2
 android.widget.EditText,,,.ShoppingActivity,autocomplete add item,ShoppingList4,android.widget.EditText,,add item,br.com.vansact.AddItemShoppingList,ed description,ShoppingList2
 android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.TextView,add item,,br.com.vansact.AddItemShoppingList,action do,ShoppingList2
+android.widget.TextView,,item,.ShoppingActivity,name,ShoppingList4,android.widget.TextView,,item,br.com.vansact.AddItemShoppingList,description item shopping list,ShoppingList2
 android.widget.TextView,,new list,.ShoppingActivity,title,ShoppingList4,android.widget.ImageButton,,,.ui.main.MainActivity,fab new list,ShoppingList3
 android.widget.EditText,,e g wishlist family list,.ShoppingActivity,edittext,ShoppingList4,android.widget.EditText,,,.ui.main.MainActivity,list name,ShoppingList3
 android.widget.Button,,ok,.ShoppingActivity,button,ShoppingList4,android.widget.Button,,okay,.ui.main.MainActivity,button,ShoppingList3
-android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.ImageButton,,,.ui.products.ProductsActivity,fab new product,ShoppingList3
+android.widget.TextView,,list,.ShoppingActivity,text,ShoppingList4,android.widget.TextView,,list,.ui.products.ProductsActivity,,ShoppingList3
 android.widget.EditText,,,.ShoppingActivity,autocomplete add item,ShoppingList4,android.widget.EditText,,,.ui.products.ProductsActivity,product name,ShoppingList3
 android.widget.Button,,add,.ShoppingActivity,button add item,ShoppingList4,android.widget.Button,,okay,.ui.products.ProductsActivity,button,ShoppingList3
+android.widget.TextView,,item,.ShoppingActivity,name,ShoppingList4,android.widget.TextView,,item,.ui.products.ProductsActivity,textview product name,ShoppingList3
