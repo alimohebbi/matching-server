@@ -6,8 +6,9 @@ from evaluators.abstract_evaluator import AbstractEvaluator
 
 
 class RandomEvaluator(AbstractEvaluator):
-    def get_potential_matches(self, descriptors_data):
-        return descriptors_data
+    def get_potential_matches(self, data):
+        same_type_condition = (data['src_type'] == data['target_type'])
+        return data[same_type_condition]
 
     def make_descriptors_compatible(self, row):
         pass
