@@ -47,6 +47,7 @@ For detailed information on these components, please refer to our paper: [“Sem
 {"1": 0.65, "2": 0.5416666667}
 ```
 
+> For concrete examples please look into [input_sample.txt](server/input_sample.txt) and [input_sample_minimal.txt](server/input_sample_minimal.txt)
 ## Usage
 
 1. Clone the repository.
