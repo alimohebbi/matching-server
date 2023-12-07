@@ -1,0 +1,59 @@
+{
+  "candidates": {
+    "1": {
+      "class": "android.widget.TextView",
+      "clickable": "false",
+      "content-desc": null,
+      "package": "com.kvannli.simonkvannli.dailybudget",
+      "resource-id": "com.kvannli.simonkvannli.dailybudget:id/current_money",
+      "text": "$ -45.00",
+      "bounds": "[388,734][1051,1192]",
+      "displayed": "true",
+      "action": [
+        "wait_until_text_presence",
+        10,
+        "text",
+        "$ -45.00"
+      ],
+      "event_type": "oracle",
+      "activity": ".MainActivity"
+    },
+    "2": {
+      "checked": "false",
+      "class": "android.widget.ImageButton",
+      "clickable": "true",
+      "content-desc": null,
+      "package": "com.kvannli.simonkvannli.dailybudget",
+      "resource-id": "com.kvannli.simonkvannli.dailybudget:id/imageButton",
+      "text": "",
+      "bounds": "[895,1627][1273,2047]",
+      "displayed": "true",
+      "action": [
+        "click"
+      ],
+      "event_type": "gui",
+      "activity": ".MainActivity"
+    }
+  },
+  "sourceEvent": {
+    "class": "android.widget.Button",
+    "clickable": "true",
+    "content-desc": null,
+    "package": "luankevinferreira.expenses",
+    "resource-id": "luankevinferreira.expenses:id/total_month",
+    "text": "$45.00",
+    "bounds": "[56,439][1384,713]",
+    "displayed": "true",
+    "action": [
+      "wait_until_element_presence",
+      10,
+      "text",
+      "$45.00"
+    ],
+    "event_type": "oracle",
+    "activity": ".MainActivity"
+  },
+  "sourceLabels": null,
+  "targetLabels": null,
+  "smConfig": "{\"algorithm\": \"custom\", \"word_embedding\": \"edit_distance\", \"descriptors\": \"union\", \"training_set\": \"empty\", \"app_pair\": \"craftdroid\"}"
+}
